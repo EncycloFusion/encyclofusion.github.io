@@ -3,7 +3,7 @@ A new unofficial Clickteam wiki with some assets forked from [ClickWiki](https:/
 We aim to update the information about both new and old Clickteam.
 
 # Copyright
-A large portion of the files in the directory `wiki` are taken from the original [ClickWiki](https://github.com/ClickWiki/clickwiki.github.io/tree/master) with some added modifications.
+A large portion of the files in the directory `wiki` are taken from the original ClickWiki with some added modifications.
 * The website assets and code are under [CC0 1.0 Universal license](/LICENSE-CC0-1.0-UNIVERSAL)
 * The text under the `wiki` directory is licensed under [CC BY 4.0](/LICENSE-CC-BY-4.0)
 * All the images under the `wiki/assets/CC-BY-4.0/` directory are [CC BY 4.0](/LICENSE-CC-BY-4.0)
