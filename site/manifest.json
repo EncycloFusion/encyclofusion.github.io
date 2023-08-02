@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "version": "1",
-  "name": "ClickWiki",
-  "short_name": "ClickWiki",
-  "description": "Community contributed wiki for Clickteam and its products",
+  "name": "EncycloFusion",
+  "short_name": "EncycloFusion",
+  "description": "EncycloFusion is a Wiki providing information about Clickteam",
   "default_locale": "en",
   "icons": [
     {

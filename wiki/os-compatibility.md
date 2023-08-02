@@ -235,7 +235,7 @@ This is a guide to install Install Creator or Patch Maker on Mac.
 **Required:**
 
 * [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php)
-* [Tools Icons](https://sites.google.com/site/clickwikifiles/ToolsIcons.dmg?attredirects=0&d=1) (*)
+* [Tools Icons](https://sites.google.com/site/clickwikifiles/ToolsIcons.dmg?attredirects=0&d=1) (*) **File is unavailable, please email encyclofusion@proton.me if you have it.**
 * Installers for:
   * [Install Creator 2](http://www.clickteam.com/webftp/files/4/5/icinst.exe)
   * [Install Creator Pro](http://www.clickteam.com/webftp/files/5/5/icpinst.exe)

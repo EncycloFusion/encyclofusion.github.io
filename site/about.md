@@ -11,8 +11,8 @@ languages:
   - en
 ---
 
-EncycloFusion is a Wiki providing information about [Clickteam](/clickteam) The project
-aims to cover their [products](/clickteam/history), [exporters](/exporters), [extensions](/extensions),
+EncycloFusion is a Wiki providing information about [Clickteam](/clickteam).
+The project aims to cover their [products](/clickteam/history), [exporters](/exporters), [extensions](/extensions),
 and even more with in-depth information. Our aim with the Wiki is to provide **fully documented pages**
 that make finding **answers simple to find**. We strike for **detail** to enable you to
 **discover more possibilities** for Fusion and your projects.
@@ -44,7 +44,7 @@ Other Wikis do exist but may be in other languages, for specific communities or 
 **1 September 2015**  ​ | **stats.clickwiki.net** opens for community statistics, but closed 3 months later.
 **14 April 2017** | A Discord was created for ClickWiki updates and chat.
 **May 2018** | ClickWiki moves from MediaWiki to a static site powered by Jekyll.
-**July 2020** | ClickWiki migrates to **[clickwiki.github.io](/)**.
+**July 2020** | ClickWiki migrates to **[clickwiki.github.io](https://clickwiki.github.io)**.
 **July 2023** | ClickWiki is archived, yet still an unfinished project
 **August 2023** |A fork of ClickWiki, EncycloFusion is founded by TropicalBananas
 

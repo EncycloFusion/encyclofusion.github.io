@@ -15,12 +15,12 @@ and some are exclusive to the Developer versions or certain runtimes only.
 
 There are over 360 extensions available from both Clickteam and third party developers,
 with more in development. It will be impossible to document every single extension out there.
-However, ClickWiki will do its best to list the vast majority of them.
+However, EncycloFusion will do its best to list the vast majority of them.
 
 {% include TOC %}
 
 ## Extension List
-ClickWiki aims to achieve a number of past, present and future extensions. Note that
+EncycloFusion aims to achieve a number of past, present and future extensions. Note that
 not all extensions can be documented.
 
 **Extension Categories:**
