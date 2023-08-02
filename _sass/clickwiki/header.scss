@@ -1,0 +1,51 @@
+$header-dropdown-icon-size: 24px;
+
+#site-logo {
+    img {
+        height: 150px;
+        width: 150px;
+    }
+}
+
+header {
+    h1 {
+        margin: 0.5em 0;
+    }
+
+    .dropdown-item {
+        img {
+            max-width: $header-dropdown-icon-size;
+            max-height: $header-dropdown-icon-size;
+        }
+
+        span {
+            width: $header-dropdown-icon-size;
+            text-align: center;
+            color: $primary;
+        }
+
+        &:active {
+            span {
+                color: white;
+            }
+        }
+    }
+
+    .container {
+        position: relative;
+    }
+
+    #dynamic-header {
+        position: absolute;
+        right: 0.5em;
+        top: 1em;
+        z-index: -1;
+    }
+}
+
+.site-warning {
+    background: #fffbdd;
+    color: black;
+    text-align: center;
+    padding: 4px;
+}

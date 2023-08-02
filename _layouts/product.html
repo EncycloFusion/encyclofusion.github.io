@@ -1,0 +1,245 @@
+---
+layout: default
+---
+<article class="page">
+
+    <div class="page-content">
+
+        <table id="summary-table" class="table">
+            <tbody>
+
+                {% if page.image %}
+                <tr class="summary-photo">
+                    <td colspan="2">
+                        <a data-fancybox="images" href="{{ page.image }}" data-caption="{{ page.image_caption }}">
+                            <img src="{{ page.image }}" alt="{{ page.image_caption }}" title="{{ page.image_caption }}"/>
+                        </a>
+                    </td>
+                </tr>
+                <tr class="summary-caption">
+                    <td colspan="2">
+                        <small>{{ page.image_caption }}</small>
+                    </td>
+                </tr>
+                {% endif %}
+
+                {% if page.developer %}
+                <tr>
+                    <th>Developer</th>
+                    <td>{{ page.developer | markdownify }}</td>
+                </tr>
+                {% endif %}
+
+                {% if page.status %}
+                <tr>
+                    <th>Status</th>
+                    <td>{{ page.status | markdownify }}</td>
+                </tr>
+                {% endif %}
+
+                {% if page.initial_release_build %}
+                <tr>
+                    <th>Initial Release</th>
+                    <td>{{ page.initial_release_build }} {% if page.initial_release_date %}<span class="relative-date">{{ page.initial_release_date }}</span>{% endif %}</td>
+                </tr>
+                {% endif %}
+
+                {% if page.last_stable_build %}
+                <tr>
+                    <th>Latest Release</th>
+                    <td>{{ page.last_stable_build }} {% if page.last_stable_date %}<span class="relative-date">{{ page.last_stable_date }}</span>{% endif %}</td>
+                </tr>
+                {% endif %}
+
+                {% if page.last_beta_build %}
+                <tr>
+                    <th>Beta Release</th>
+                    <td>{{ page.last_beta_build }} {% if page.last_beta_date %}<span class="relative-date">{{ page.last_beta_date }}</span>{% endif %}</td>
+                </tr>
+                {% endif %}
+                
+                {% if page.release_date %}
+                <tr>
+                    <th>Release Date</th>
+                    <td>{{ page.release_date }} {% if page.release_date_numerical %}<span class="relative-date">{{ page.release_date_numerical }}</span>{% endif %}</td>
+                </tr>
+                {% endif %}
+
+                {% if page.platforms %}
+                <tr class="platforms">
+                    <th>Platforms</th>
+                    <td>
+                        {% for platform in page.platforms %}
+                            {% if platform == 'windows' %}
+                            <img src="/wiki/assets/Platforms/Windows.png" alt="Windows logo" title="Microsoft Windows"/>
+                            {% endif %}
+
+                            {% if platform == 'windows9x' %}
+                            <img src="/wiki/assets/Platforms/Windows9x.png" alt="Windows 9x logo" title="Older versions of Microsoft Windows"/>
+                            {% endif %}
+
+                            {% if platform == 'mac' %}
+                            <img src="/wiki/assets/Platforms/macOS.png" alt="macOS logo" title="macOS"/>
+                            {% endif %}
+
+                            {% if platform == 'linux' %}
+                            <img src="/wiki/assets/Platforms/Linux.png" alt="Linux logo" title="GNU/Linux"/>
+                            {% endif %}
+
+                            {% if platform == 'steam' %}
+                            <img src="/wiki/assets/Platforms/Steam.png" alt="Steam logo" title="Steam"/>
+                            {% endif %}
+
+                            {% if platform == 'android' %}
+                            <a href="/exporters/Android/">
+                                <img src="/wiki/assets/Platforms/Android.png" alt="Andriud logo" title="Android"/>
+                            </a>
+                            {% endif %}
+
+                            {% if platform == 'flash' %}
+                            <img src="/wiki/assets/Platforms/Flash.png" alt="Flash logo" title="Adobe Flash"/>
+                            {% endif %}
+
+                            {% if platform == 'html5' %}
+                            <img src="/wiki/assets/Platforms/HTML5.png" alt="HTML5 logo" title="HTML5"/>
+                            {% endif %}
+
+                            {% if platform == 'ios' %}
+                            <img src="/wiki/assets/Platforms/iOS.png" alt="iOS logo" title="iOS"/>
+                            {% endif %}
+
+                            {% if platform == 'java' %}
+                            <img src="/wiki/assets/Platforms/Java.png" alt="Java logo" title="Java"/>
+                            {% endif %}
+
+                            {% if platform == 'xna' %}
+                            <img src="/wiki/assets/Platforms/XNA.png" alt="XNA logo" title="XNA"/>
+                            {% endif %}
+
+                            {% if platform == 'winphone' %}
+                            <img src="/wiki/assets/Platforms/WinPhone.png" alt="Windows Phone logo" title="Windows Phone"/>
+                            {% endif %}
+
+                        {% endfor %}
+                    </td>
+                </tr>
+                {% endif %}
+                
+                {% if page.products %}
+                <tr class="platforms">
+                    <th>Available for</th>
+                    <td>
+                        {% for product in page.products %}
+                            {% if product == 'mmf1' %}
+                            <a href="/fusion/1.5/">
+                                <img src="/wiki/assets/Clickteam/Icon MMF1.5.png" alt="MMF1 Icon" title="Multimedia Fusion 1"/>
+                            </a>
+                            {% endif %}
+
+                            {% if product == 'mmf2' %}
+                            <a href="/fusion/2.0/">
+                                <img src="/wiki/assets/Clickteam/Icon MMF2.png" alt="MMF2 Icon" title="Multimedia Fusion 2 Standard"/>
+                            </a>
+                            {% endif %}
+
+                            {% if product == 'mmf2dev' %}
+                            <a href="/fusion/2.0/">
+                                <img src="/wiki/assets/Clickteam/Icon MMF2Dev.png" alt="MMF2 Developer Icon" title="Multimedia Fusion 2 Developer"/>
+                            </a>
+                            {% endif %}
+
+                            {% if product == 'cf2.5free' %}
+                            <a href="/fusion/2.5/">
+                                <img src="/wiki/assets/Clickteam/Icon CF2.5Free.png" alt="CF 2.5 Free Icon" title="Clickteam Fusion 2.5 Free"/>
+                            </a>
+                            {% endif %}
+
+                            {% if product == 'cf2.5' %}
+                            <a href="/fusion/2.5/">
+                                <img src="/wiki/assets/Clickteam/Icon CF2.5.png" alt="CF 2.5 Icon" title="Clickteam Fusion 2.5 Standard"/>
+                            </a>
+                            {% endif %}
+
+                            {% if product == 'cf2.5dev' %}
+                            <a href="/fusion/2.5/">
+                                <img src="/wiki/assets/Clickteam/Icon CF2.5Dev.png" alt="CF 2.5 Developer Icon" title="Clickteam Fusion 2.5 Developer"/>
+                            </a>
+                            {% endif %}
+
+                        {% endfor %}
+                    </td>
+                </tr>
+                {% endif %}
+
+                {% if page.languages %}
+                <tr class="languages">
+                    <th>Languages</th>
+                    <td>
+                        {% for lang in page.languages %}
+                            {% if lang == 'en' %}
+                                <img src="/wiki/assets/Locales/us.png" alt=""/> English<br>
+                            {% endif %}
+
+                            {% if lang == 'fr' %}
+                                <img src="/wiki/assets/Locales/fr.png" alt=""/> Français<br>
+                            {% endif %}
+
+                            {% if lang == 'jp' %}
+                                <img src="/wiki/assets/Locales/jp.png" alt=""/> Japanese<br>
+                            {% endif %}
+
+                        {% endfor %}
+                    </td>
+                </tr>
+                {% endif %}
+
+                {% if page.shop_link or page.support_link or page.links %}
+                <tr class="links">
+                    <th>Links</th>
+                    <td>
+                        {% if page.shop_link %}
+                            <p>
+                                <a href="{{ page.shop_link }}">
+                                    <img src="/wiki/assets/Clickteam/ClickStore.png" alt="ClickStore"/> Purchase
+                                </a>
+                            </p>
+                        {% endif %}
+
+                        {% if page.support_link %}
+                            <p>
+                                <a href="{{ page.support_link }}">
+                                    <img src="/wiki/assets/Clickteam/Clickteam Logo.png" alt="ClickStore"/> Support<br>
+                                </a>
+                            </p>
+                        {% endif %}
+
+                        {% if page.links %}
+                            {% for link in page.links %}
+                                {{ link | markdownify }}
+                            {% endfor %}
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endif %}
+
+                {% if page.predecessor %}
+                <tr>
+                    <th>Predecessor</th>
+                    <td>{{ page.predecessor | markdownify }}</td>
+                </tr>
+                {% endif %}
+
+                {% if page.successor %}
+                <tr>
+                    <th>Successor</th>
+                    <td>{{ page.successor | markdownify }}</td>
+                </tr>
+                {% endif %}
+
+            </tbody>
+        </table>
+
+        {{ content }}
+    </div>
+
+</article>

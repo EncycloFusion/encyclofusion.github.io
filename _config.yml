@@ -1,14 +1,156 @@
-### your site title here
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: EncycloFusion
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  A new unofficial Clickteam wiki forked from ClickWiki, made with the aim of superseding and adding more information to ClickWiki.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://encyclofusion.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  EncycloFusion
+accent_colour: "#ed3131"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+sass:
+  style: compressed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Categories (for breadcrumbs)
+breadcrumbs:
+    - id: exporters
+      title: "Exporters"
+      url: "/exporters/"
+
+    - id: clickteam
+      title: "Clickteam"
+      url: "/clickteam/"
+
+    - id: extensions
+      title: "Extensions"
+      url: "/extensions/"
+
+    - id: fusion
+      title: "Fusion"
+      url: "/fusion/"
+
+    - id: tools
+      title: "Tools"
+      url: "/tools/"
+
+    - id: file-extensions
+      title: "File Extensions"
+      url: "/file-extensions/"
+
+    - id: best-practices
+      title: "Best Practices"
+      url: "/best-practices/"
+
+    - id: chowdren
+      title: "Chowdren"
+      url: "/chowdren/"
+
+    - id: interface
+      title: "Interface & Editors"
+      url: "/interface/"
 
 
-### let's use the minima theme (see https://github.com/jekyll/minima)
+# Header items
+navigation_categories:
+    - heading: "All About Clickteam"
 
-theme: minima
+    - label: "Clickteam"
+      icon_type: "img"
+      icon: "/wiki/assets/Clickteam/Clickteam Logo.png"
+      url: "/clickteam/"
+
+    - label: "Products"
+      icon_type: "fa"
+      icon: "fa-shopping-bag"
+      url: "/products/"
+
+    - heading: "Fusion"
+
+    - label: "Exporters"
+      icon_type: "fa"
+      icon: "fa-download"
+      url: "/exporters/"
+
+    - label: "Extensions"
+      icon_type: "fa"
+      icon: "fa-puzzle-piece"
+      url: "/extensions/"
+
+    - label: "Best Practices"
+      icon_type: "fa"
+      icon: "fa-question-circle"
+      url: "/best-practices/"
+
+    - label: "Interface"
+      icon_type: "fa"
+      icon: "fa-mouse-pointer"
+      url: "/interface/"
+
+    - label: "File Extensions"
+      icon_type: "fa"
+      icon: "fa-file"
+      url: "/file-extensions/"
 
 
-### exclude the instructions / write-up in the README.md
+navigation_external_links:
+    - label: "Clickteam.com"
+      icon_type: "img"
+      icon: "/wiki/assets/Clickteam/Clickteam Logo.png"
+      url: "https://www.clickteam.com"
 
-exclude:
-- README.md
+    - label: "Clickteam Community"
+      icon_type: "img"
+      icon: "/wiki/assets/Clickteam/Clickteam Logo.png"
+      url: "https://community.clickteam.com"
+
+    - label: "Community Passport"
+      icon_type: "img"
+      icon: "/wiki/assets/Clickteam/Clickteam Logo.png"
+      url: "https://community.clickteam.com/passport"
+
+    - label: "Clickteam Shop"
+      icon_type: "img"
+      icon: "/wiki/assets/Clickteam/Shop.png"
+      url: "https://www.clickteam.com/web-shop"
+
+    - label: "ClickStore"
+      icon_type: "img"
+      icon: "/wiki/assets/Clickteam/ClickStore.png"
+      url: "http://clickstore.clickteam.com/"
+
+# Aliases
+win_logo: "<img src='/wiki/assets/Platforms/Windows.png' alt='Windows logo' class='inline-platform-icon'/>"
+mac_logo: "<img src='/wiki/assets/Platforms/Mac.png' alt='Mac logo' class='inline-platform-icon'/>"
+linux_logo: "<img src='/wiki/assets/Platforms/Linux.png' alt='GNU/Linux logo' class='inline-platform-icon'/>"
+steam_logo: "<img src='/wiki/assets/Platforms/Steam.png' alt='Steam logo' class='inline-platform-icon'/>"

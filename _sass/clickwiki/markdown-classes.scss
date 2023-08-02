@@ -1,0 +1,42 @@
+
+// Example Usage:
+//   ![Developer](/wiki/assets/Clickteam/Icon CF2.5Dev.png){:.right}
+
+
+// Add {:.left} or {:.right} to position it to the right of the page.
+
+img.left {
+    float: left;
+    margin-right: 16px;
+    margin-bottom: 16px;
+}
+
+img.right {
+    float: right;
+    margin-bottom: 16px;
+}
+
+
+// Add {:.icon} after an image to restrict its size to icon dimensions.
+
+img.icon {
+    max-width: 48px;
+    max-height: 48px;
+}
+
+// Make preformatted blocks more distinct
+pre {
+    background: #f3f3f3;
+    padding: 1em;
+}
+
+// Quotes
+blockquote {
+    background: $gray-100;
+    border-left: $gray-400 4px solid;
+    padding: 1em;
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}

@@ -1,0 +1,99 @@
+<header id="site-header">
+    <div class="container">
+        <a id="site-logo" href="{{ '/' | relative_url }}" title="Go to ClickWiki Homepage">
+            <img src="/site/img/logo.svg" alt="ClickWiki Logo"/>
+        </a>
+        <img id="dynamic-header" alt="" src="/site/img/header/img0.png" style="display:none"/>
+        <nav class="navbar navbar-expand-md navbar-light bg-light">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/"><span class="fa fa-home"></span> Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/search/"><span class="fa fa-search"></span> Search</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="fa fa-compass"></span> Explore
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            {% for category in site.navigation_categories %}
+                                {% if category.heading %}
+                                    <div class="dropdown-header" >{{ category.heading }}</div>
+                                {% else %}
+                                    <a class="dropdown-item" href="{{ category.url }}">
+                                        {% if category.icon_type == "fa" %}
+                                            <span class="fa {{ category.icon }}"></span>
+                                        {% else %}
+                                            <img src="{{ category.icon }}" alt="{{ category.label }}"/>
+                                        {% endif %}
+                                        {{ category.label }}
+                                    </a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="fa fa-external-link-alt"></span> External Links
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            {% for category in site.navigation_external_links %}
+                                {% if category.heading %}
+                                    <div class="dropdown-header" >{{ category.heading }}</div>
+                                {% else %}
+                                    <a class="dropdown-item" href="{{ category.url }}" target="_blank" rel="noopener">
+                                        {% if category.icon_type == "fa" %}
+                                            <span class="fa {{ category.icon }}"></span>
+                                        {% else %}
+                                            <img src="{{ category.icon }}" alt="{{ category.label }}"/>
+                                        {% endif %}
+                                        {{ category.label }}
+                                    </a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div>
+            {% include alert
+                type = "warning"
+                title = "Wiki Archived"
+                message = "This wiki is closed for contributions and hasn't been updated since 2020. Links and pages may be out-of-date."
+            %}
+        </div>
+        <br>
+        <ol class="breadcrumb">
+            {% if page.permalink != "/" %}
+                <li class="breadcrumb-item">
+                    <a href="/">Home</a>
+                </li>
+            {% endif %}
+            {% if page.category %}
+                {% for category in site.breadcrumbs %}
+                    {% if category.id == page.category %}
+                        <li class="breadcrumb-item">
+                            <a href="{{ category.url }}">{{ category.title }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            {% if page.permalink != "/" %}
+                <li class="breadcrumb-item active">
+                    {{ page.title }}
+                </li>
+            {% endif %}
+        </ol>
+        <h1>{{ page.title }}</h1>
+        <div class="col-12">
+            <hr>
+        </div>
+    </div>
+</header>

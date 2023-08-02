@@ -1,0 +1,33 @@
+<!--
+Shows an alert box, intended for notices about a page.
+
+Parameters:
+  - type  warning, clock, info, question, warning
+  - title
+  - message
+-->
+
+<div class="alert alert-info">
+    <div class="row">
+        <div class="col-xs-2">
+          {% if include.type == "warning" %}
+            <i class="fas fa-exclamation-triangle" style="font-size: 48px"></i>
+
+          {% elsif include.type == "clock" %}
+            <i class="fas fa-clock" style="font-size: 48px"></i>
+
+          {% elsif include.type == "info" %}
+            <i class="fas fa-info-circle" style="font-size: 48px"></i>
+
+          {% elsif include.type == "question" %}
+            <i class="fas fa-question-circle" style="font-size: 48px"></i>
+
+          {% endif %}
+        </div>
+
+        <div class="col">
+            <strong>{{ include.title | markdownify }}</strong>
+            <p>{{ include.message | markdownify }}</p>
+        </div>
+    </div>
+</div>

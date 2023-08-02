@@ -1,0 +1,34 @@
+//
+// Contains modifications on top of a vanilla Bootstrap library.
+//
+
+// Prefer vertically aligned cells in tables.
+.table th,
+.table thead th,
+.table tbody td,
+.table td {
+    vertical-align: middle;
+}
+
+// Restrict size of floating thumbnails
+.img-thumbnail {
+    max-width: 30%;
+    margin-left: 1em;
+
+    img {
+        max-width: 100%;
+        cursor: zoom-in;
+    }
+}
+
+// Breadcrumbs (and navbar spacing)
+.breadcrumb {
+    background: none;
+    font-size: 0.8em;
+    margin-bottom: 0;
+    padding: 0.25rem .5rem 0;
+}
+
+.navbar {
+    padding: .5rem .25rem;
+}

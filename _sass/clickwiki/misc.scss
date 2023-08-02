@@ -1,0 +1,76 @@
+//
+// Contains miscellaneous CSS that doesn't fit anywhere else.
+//
+
+// Prevent floating elements from overlapping the footer
+main {
+    overflow: auto;
+}
+
+// Hide Fancybox Grid icon
+.fancybox-button--thumbs {
+    display: none !important;
+}
+
+// Galleries
+.gallery-item {
+    display: inline-block;
+    text-align: center;
+
+    a {
+        text-decoration: none;
+    }
+
+    .img-thumbnail {
+        margin: 0;
+        max-height: 150px;
+        max-width: 150px;
+    }
+}
+
+// Table cell shading
+td.yes {
+    background: lighten($success, 30%);
+}
+
+td.partial {
+    background: lighten($warning, 30%);
+}
+
+td.no {
+    background: lighten($danger, 30%);
+}
+
+.dark {
+    td.yes,
+    td.partial,
+    td.no {
+        color: black;
+    }
+}
+
+// Class for tables that contain logos.
+table.has-logos {
+    img {
+        max-height: 40px;
+        max-width: 40px;
+    }
+}
+
+// Inline platform icons
+.inline-platform-icon {
+    max-height: 32px;
+    max-width: 32px;
+}
+
+// Internal link does not exist
+.nonexistent {
+    color: $danger;
+}
+
+/* Highlight headings when navigating via hash */
+h6:target {
+    background: yellow;
+    color: black;
+    padding: 5px;
+}

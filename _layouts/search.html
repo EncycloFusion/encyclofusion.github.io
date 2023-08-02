@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<article class="page">
+
+    <div class="page-content">
+        {{ content }}
+
+        <div id="search-container" class="container">
+            <div class="row">
+                <div class="col">
+                <h4>Find Pages on ClickWiki</h4>
+                <p>Enter some keywords and you may find what you're looking for.</p>
+
+                <div class="input-group mb-2">
+                    <div class="input-group-addon"><span class="fa fa-search search-icon"></span></div>
+                    <input type="text" id="search-input" class="form-control" placeholder="Keywords">
+                </div>
+
+                <ul id="results-container"></ul>
+
+                <!-- CDN for search -->
+                <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
+                <script>
+                var sjs = SimpleJekyllSearch({
+                    searchInput: document.getElementById('search-input'),
+                    resultsContainer: document.getElementById('results-container'),
+                    json: '/search.json'
+                })
+                </script>
+
+                </div>
+
+                <div class="col">
+                    <h4>Community Forums Search</h4>
+                    <p>Sometimes the forum built-in system doesn't find what you were looking for. This will perform a Google Search.</p>
+
+                    <div class="input-group mb-2">
+                        <div class="input-group-addon"><span class="fab fa-google search-icon"></span></div>
+                        <input type="text" id="google-input" class="form-control" placeholder="Google Search">
+                        <button id="google-search" onclick="searchForums()" class="btn btn-primary" style="display: none">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</article>
