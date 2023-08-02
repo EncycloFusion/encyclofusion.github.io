@@ -1,2 +1,13 @@
-# encyclofusion.github.io
-A new unofficial Clickteam wiki forked from ClickWiki
+# EncycloFusion
+A new unofficial Clickteam wiki with text forked from ClickWiki
+
+# Copyright
+A large portion of the files in the directory `wiki` are taken from the original ClickWiki with some added modifications.
+* The website assets and code are under the CC0 1.0 Universal license
+* The text under the `wiki` directory is licensed under CC BY 4.0
+* All the images under the `wiki/assets/CC-BY-4.0/` directory are licensed under CC BY 4.0
+* Anything else unless specified is media used under "fair use" and could include brand logos, graphics, icons, etc.
+For a full list of the files forked from ClickWiki, click here
+
+# Contribute!
+Do you have any information about a clickteam product? feel free to send a pull request.
