@@ -1,0 +1,13 @@
+---
+layout: default
+title: Short pages
+menu: ['global']
+---
+{%- assign long_pages = site.data.wiki_pages | sort: 'bytes' -%}
+<ol>
+{%- for page in long_pages limit:50 -%}
+  <li>
+    <a href="{{ page.url }}">{{ page.title }}</a>&nbsp; [{{ page.bytes }} bytes]
+  </li>
+{%- endfor -%}
+</ol>

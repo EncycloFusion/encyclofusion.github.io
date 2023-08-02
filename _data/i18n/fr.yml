@@ -1,0 +1,33 @@
+home: Accueil
+logo: /img/wiki.png
+label:
+  author: Auteur
+  links: Formation(s)
+  tags: Autres articles
+  toc: Sommaire
+  modified: Modification
+  created: Création
+  redirect: "Rediriger vers"
+  tag_pages: "Pages dans la catégorie"
+  main_page: "Page principale"
+  global_pages: "Pages spéciales"
+prefix:
+  tag: "Tag:"
+  user: "Utilisateur:"
+global_pages:
+  - url: /Accueil
+    text: Accueil
+  - url: /Special:Categories
+    text: Toutes les catégories
+  - url: /Special:AllPages
+    text: Tous les pages
+  - url: /Special:RecentChanges
+    text: Modifications récentes
+  - url: /Special:LongPages
+    text: Pages longues
+  - url: /Special:ShortPages
+    text: Pages courtes
+  - url: /Special:ListUsers
+    text: Tous les utilisateurs
+  - url: /Special:ListRedirects
+    text: Redirections

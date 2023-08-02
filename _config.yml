@@ -1,6 +1,39 @@
 title: EncycloFusion
-logo: /assets/img/logo.png
-description: A new unofficial Clickteam wiki
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+description:  > # this means to ignore newlines
+    A new unofficial Clickteam wiki
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "htpps://encyclofusion.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-asciidoc
+  - jekyll-toc
+
+encoding: UTF-8
+lang: en # fr is also supported ; feel free to contribute other languages
+date_format: "%-d %b %Y"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - img/brand
+  - vendor # For CI cache
+
+collections:
+  wiki:
+    output: true
+    permalink: "/;path" 
+    path: "" # avoid wiki in the url
+  wiki-legacy:
+    output: true
+    permalink: "/;path"
+    path: ""
+  special:
+    output: true
+    permalink: "/;path"
+    path: ""
+  global:
+    output: true
+    permalink: "/;path"
+    path: ""
