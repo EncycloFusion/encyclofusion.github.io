@@ -7,7 +7,7 @@ category: clickteam
 timeline:
   - title: "Past Events"
     events:
-      - date: "1995"
+      - date: "1994"
         event: "[Yves](http://community.clickteam.com/members/5114-Yves) and [François](http://community.clickteam.com/members/5273-Francois)'s first product, [Klik & Play](/klik-and-play) is released."
         icon: "/wiki/assets/Clickteam/Icon_KlikandPlay.png"
 
