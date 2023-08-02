@@ -1,4 +1,4 @@
-**The following files in this list were taken or adapted from ClickWiki and it's contributors, which licensed them under CC BY 4.0, unless the file is owned by a brand, in which case we would be using it under "Fair Use"**
+**The following files in this list were taken or adapted from [ClickWiki](https://github.com/ClickWiki/clickwiki.github.io/tree/master) and it's contributors, which licensed them under [CC BY 4.0](/LICENSE-CC-BY-4.0), unless the file is owned by a brand, in which case we would be using it under "Fair Use"**
 **It is possible that some of these files may have been modified.**
 
 Root Directory
