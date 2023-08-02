@@ -1,21 +1,24 @@
 ---
 layout: product
-title: About ClickWiki
+title: About EncycloFusion
 permalink: /about/
 
 image: "/site/img/logo.svg"
-image_caption: "ClickWiki logo, inspired by Clickteam's"
-initial_release_build: "February 2015"
-initial_release_date: "02/2015"
+image_caption: "EncycloFusion logo, based on Multimedia Fusion 2's"
+initial_release_build: "August 2nd, 2023"
+initial_release_date: "08/2023"
 languages:
   - en
 ---
 
-ClickWiki is a community-driven wiki all about [Clickteam](/clickteam) The project
+EncycloFusion is a Wiki providing information about [Clickteam](/clickteam) The project
 aims to cover their [products](/clickteam/history), [exporters](/exporters), [extensions](/extensions),
 and even more with in-depth information. Our aim with the Wiki is to provide **fully documented pages**
 that make finding **answers simple to find**. We strike for **detail** to enable you to
 **discover more possibilities** for Fusion and your projects.
+
+EncycloFusion was forked from ClickWiki due to ClickWiki being archived, despite still being unfinished and containing some inaccurate information.
+We aim to fix that.
 
 The Wiki acts as a bridge between the help documentation, centralising tips & tricks
 and frequently asked solutions buried in the [Community Forums].
@@ -30,32 +33,27 @@ and had lost **all** of its content.
 This Wiki isn't the first to create and write up about Clickteam's products and features.
 Other Wikis do exist but may be in other languages, for specific communities or for different purposes.
 
-Coincidentally, you may discover the name "ClickWiki" has been used in around 2007-2008 referring to
-another vanished Wiki on the [Community Forums], but this is an entirely
-different project with different people. You can think of this Wiki as the spiritual successor.
-It's completely new, kickstarted by different clickers and aims to preserve the knowledge and hours
-poured to build it.
-
-
 ### Timeline
 
 {:.table .table-striped}
 ---|---
-**16 February 2015** |	Founded and initially hosted by clicker [robinkooli](https://community.clickteam.com/members/15191-robinkooli).
-**4 March 2015** | Acquired **[clickwiki.net](/)** as the domain name.
+**16 February 2015** |	ClickWiki was founded and initially hosted by clicker [robinkooli](https://community.clickteam.com/members/15191-robinkooli).
+**4 March 2015** | ClickWiki Acquired **[clickwiki.net](/)** as the domain name.
 **10 April 2015** | Switched to reliable servers.
 **20 May 2015** | Server migrated to clicker [lh37](https://community.clickteam.com/members/10723-lh37) with paid hosting.
 **1 September 2015**  ​ | **stats.clickwiki.net** opens for community statistics, but closed 3 months later.
-**14 April 2017** | A Discord was created for Wiki updates and chat.
+**14 April 2017** | A Discord was created for ClickWiki updates and chat.
 **May 2018** | ClickWiki moves from MediaWiki to a static site powered by Jekyll.
-**July 2020** | **[clickwiki.github.io](/)** is the new URL.
+**July 2020** | ClickWiki migrates to **[clickwiki.github.io](/)**.
+**July 2023** | ClickWiki is archived, yet still an unfinished project
+**August 2023** |A fork of ClickWiki, EncycloFusion is founded by TropicalBananas
 
 
-### Contributors
+### Contributors to ClickWiki
 
-**Thank you to all contributors in the past!**
+**Thank you to all ClickWiki contributors in the past!**
 
-Here's everyone who helped prior to the **May 2018 update**, these clickers
+Here's everyone who helped ClickWiki prior to the **May 2018 update**, these clickers
 contributed pages, graphics or typos.
 
 * **Wiki Warriors**
@@ -85,18 +83,10 @@ contributed pages, graphics or typos.
 This Wiki is purely community ran and relies on your contributions to reach its full potential. That said,
 members of the Clickteam have contributed and promoted our Wiki! You may have read about us in [Fused](/fused).
 
-###### **Why was the wiki migrated from MediaWiki?**
-
-* **Static** - No database, no waiting. Reduces costs.
-* **GDPR compliance** - a new data protection law in the EU means that ClickWiki no longer stores any personal data, such as user logins.
-* **Flexible** - being open source, anything can be edited.
-* Our MediaWiki instance were prone to cache issues and the random "internal errors".
-
-
 ### Gallery
 {% include gallery
     image = "/wiki/assets/Screenshots/ClickWiki-2015-2018.jpg"
-    text = "ClickWiki previously powered by MediaWiki - 2015 to 2018"
+    text = "ClickWiki, one of EncycloFusion's Predecessors and what EncycloFusion is built upon. - 2015 to 2018"
 %}
 
 [Community Forums]: /clickteam/forums/

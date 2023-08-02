@@ -7,13 +7,8 @@ category: clickteam
 timeline:
   - title: "Past Events"
     events:
-      - date: "1993"
-        event: "[Yves](http://community.clickteam.com/members/5114-Yves) and [François](http://community.clickteam.com/members/5273-Francois) establish [Europress](/clickteam/)."
-        icon: "fa-users"
-        isFa: true
-
       - date: "1995"
-        event: "Their first product, [Klik & Play](/klik-and-play) is released."
+        event: "[Yves](http://community.clickteam.com/members/5114-Yves) and [François](http://community.clickteam.com/members/5273-Francois)'s first product, [Klik & Play](/klik-and-play) is released."
         icon: "/wiki/assets/Clickteam/Icon_KlikandPlay.png"
 
       - date: "1996"

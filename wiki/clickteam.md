@@ -45,7 +45,9 @@ the editors and innovating new features.
 
 ## History
 #### Europress
-Not documented.
+Europress is a British magazine and software publisher that published Yves and François's Klik & Play and The Games Factory.
+#### Corel
+Not documented yet.
 
 [GAM]: /file-extensions/GAM/
 [Klik and Play]: /klik-and-play/
