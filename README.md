@@ -1,2 +1,2 @@
 # encyclofusion.github.io
-A new unofficial Clickteam forked from ClickWiki
+A new unofficial Clickteam wiki forked from ClickWiki
