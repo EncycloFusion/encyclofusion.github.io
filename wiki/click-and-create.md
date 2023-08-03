@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Multimedia Fusion 1.5
+title: Click & Create
 permalink: /click-and-create/
 category: fusion
 
