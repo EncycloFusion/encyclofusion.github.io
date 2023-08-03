@@ -89,7 +89,7 @@ menu:
 
   - title: "Community Resources"
     items:
-    - name: "Kliktopia"
+      - name: "Kliktopia"
         icon: "/wiki/assets/Other/Kliktopia.png"
         url: "https://kliktopia.org/"
 
