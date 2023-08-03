@@ -24,7 +24,8 @@ languages:
 shop_link: null
 support_link: null
 links:
-  - "[Retired Products Downloads](http://www.clickteam.com/download-centre/retired-products)"
+  - "[Update v1.06 16-Bit](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/updates/cnc/ccupd31.exe)"
+  - "[Update v1.06 32-Bit](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/updates/cnc/ccupd32.exe)"
 ---
 
 **Corel Click & Create**, shortened to **CNC** and also known
@@ -39,11 +40,23 @@ the user's creations as "applications" instead and saving them as CCA files.
 The license for the software was eventually given to IMSI, who rebranded it as
 **IMSI Multimedia Fusion Express**.
 
-{% include TOC %}
-
 {% include thumbnail
     image = "/wiki/assets/Clickteam/Icon ClickandCreate.png"
     text = "Program Icon"
+%}
+
+## Gallery
+{% include gallery
+    image = "/wiki/assets/Clickteam/cncpromoart.gif"
+    text = "Promotional art for Click & Create from Corel's Website"
+%}
+{% include gallery
+    image = "/wiki/assets/Clickteam/mmfelogo.png"
+    text = "Multimedia Fusion Express Logo"
+%}
+{% include gallery
+    image = "/wiki/assets/Disc Covers/cnc_cds.gif"
+    text = "Click & Create CDs"
 %}
 
 [Clickteam]: /clickteam/
