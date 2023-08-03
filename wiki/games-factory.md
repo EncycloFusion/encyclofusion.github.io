@@ -9,7 +9,7 @@ image_caption: "The front cover of CD-ROM. Distributed by Xplosiv."
 developer: "[Clickteam](/clickteam/)"
 status: "Obsolete"
 initial_release_build: "v1.00"
-initial_release_date: "1998"
+initial_release_date: "1996"
 last_stable_build: "v1.06"
 last_stable_date: "2004"
 last_beta_build: null

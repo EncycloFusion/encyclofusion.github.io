@@ -32,7 +32,6 @@ menu:
       - name: "Klik & Play (1995)"
         icon: "/wiki/assets/Clickteam/Icon_KlikandPlay.png"
         url: "/klik-and-play/"
-        hint: "Originally created by Europress Software (Francois Lionet/Yves Lamarouex)"
 
       - name: "The Games Factory (1996)"
         icon: "/wiki/assets/Clickteam/Icon_TGF1.png"

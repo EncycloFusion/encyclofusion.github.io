@@ -25,8 +25,8 @@ the message "Cannot open protected GAM file" (in [TGF]) or "Cannot read a protec
 or C&C." (in MMF and up)
 
 Historically, it was possible to contact Clickteam to unlock the file. However, as
-one of the developer's hard drives failed, the utility has been lost and hence,
-older GAM files are permanently locked.
+one of the developer's hard drives failed, the utility has been lost, but it is still possible
+to unlock GAM files using unofficial tools that we do not endorse.
 
 ## Upgrading to MFA
 It is possible to upgrade older GAM files to the newer, [MFA] format by importing

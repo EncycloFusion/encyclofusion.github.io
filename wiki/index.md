@@ -89,6 +89,10 @@ menu:
 
   - title: "Community Resources"
     items:
+    - name: "Kliktopia"
+        icon: "/wiki/assets/Other/Kliktopia.png"
+        url: "https://kliktopia.org/"
+
       - name: "Best Practices (FAQs)"
         icon: "fa-question-circle"
         url: "/best-practices/"
@@ -152,9 +156,7 @@ menu:
         url: "/clickjam/"
 ---
 
-The community-driven Wiki for all things [Clickteam]! Here you'll find facts,
-history and some documentation to many of their products and
-the growing number of [extensions] and features.
+EncycloFusion is a Wiki all about [Clickteam]! We have information about Clickteam products both new and old, [extensions], facts, community resources and documentation!
 
 [Clickteam]: /clickteam
 [Extensions]: /extensions
