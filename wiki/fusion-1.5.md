@@ -72,7 +72,7 @@ When these files are removed from the extension folder in MMF 1.5 or 1.2, they l
 This will allow Multimedia Fusion 1.5 or 1.2 to run, however, occasionally when you try to rename something, you might notice a problem:
 
 ##### Garbage characters
-[OpenGL Logo](/wiki/assets/Clickteam/Screenshots/Garbage.png)
+![text reading "test" with gibberish afterwards](/wiki/assets/Clickteam/Screenshots/Garbage.png)
 See all that gibberish after the text “test”? those are called garbage characters, and we don’t want those there.
 
 But this problem’s solution is rather simple, all you have to do is **apply compatibility mode** for Windows Vista, 7 or 8 to **MMFUSION.EXE**.
