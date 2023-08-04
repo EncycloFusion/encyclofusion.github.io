@@ -74,7 +74,6 @@ This will allow Multimedia Fusion 1.5 or 1.2 to run, however, occasionally when 
 ##### Garbage characters
 {% include thumbnail
     image "/wiki/assets/Screenshots/garbagechars.png"
-    text = "Program Icon"
 %}
 See all that gibberish after the text “test”? those are called garbage characters, and we don’t want those there.
 
