@@ -14,7 +14,7 @@ menu:
 
       - name: ".gam and .cca (C&C)"
         icon: "/wiki/assets/Clickteam/Filetypes/GAMCCA.png"
-        url: "/file-extensions/GAM/"
+        url: "/file-extensions/GAM-CCA/"
         hint: "C&C and TGF1"
 
       - name: ".cca (MMF)"
