@@ -5,7 +5,7 @@ permalink: /file-extensions/GAM-CCA/
 category: file-extensions
 ---
 
-{% include thumbnail image = "/wiki/assets/Clickteam/Filetypes/GAMCCA.png" text = "File icon when TGF1 is installed" %}
+{% include thumbnail image = "/wiki/assets/Clickteam/Filetypes/GAMCCA.png" text = "File icons, .GAM on the bottom layer and .CCA on the top layer" %}
 
 **TGF GAM/C&C CCA** (The Games Factory Save File/Click & Create Application) is the file format used by [The Games Factory]
 and [Click & Create]. Both [TGF]'s .gam [C&C]'s .cca use a nearly identical format and are intercompatible. As with a [MFA]
