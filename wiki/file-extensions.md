@@ -9,13 +9,18 @@ menu:
     items:
       - name: ".gam"
         icon: "/wiki/assets/Clickteam/Filetypes/GAM.png"
-        url: "/file-extensions/GAM/"
-        hint: "K&P and TGF1"
+        url: "/file-extensions/GAM-KNP/"
+        hint: "K&P"
 
-      - name: ".cca"
+      - name: ".gam and .cca (C&C)"
+        icon: "/wiki/assets/Clickteam/Filetypes/GAMCCA.png"
+        url: "/file-extensions/GAM/"
+        hint: "C&C and TGF1"
+
+      - name: ".cca (MMF)"
         icon: "/wiki/assets/Clickteam/Filetypes/CCA.png"
         url: "/file-extensions/CCA/"
-        hint: "C&C and MMF1"
+        hint: "MMF1"
 
       - name: ".lib"
         icon: "/wiki/assets/Clickteam/Filetypes/no-icon.png"

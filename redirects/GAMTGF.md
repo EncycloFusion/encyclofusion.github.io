@@ -1,5 +1,5 @@
 ---
 layout: redirect
-permalink: /wiki/GAM
+permalink: /file-extensions/GAM/
 redirect: /file-extensions/GAM-CCA/
 ---

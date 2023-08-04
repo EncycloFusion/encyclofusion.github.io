@@ -42,7 +42,7 @@ Root Directory
     ¦   fusion-2.5.md
     ¦   fusion-compare.md
     ¦   fusion.md
-    ¦   GAM.md
+    ¦   GAM-CCA.md
     ¦   games-factory-2.md
     ¦   games-factory.md
     ¦   html5.md
