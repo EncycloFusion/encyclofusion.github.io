@@ -93,6 +93,10 @@ menu:
         icon: "/wiki/assets/Other/Kliktopia.png"
         url: "https://kliktopia.org/"
 
+      - name: "Darkwire Extension List"
+        icon: "/wiki/assets/Other/Darkwire.png"
+        url: "https://dark-wire.com/storage/extlist.php"
+
       - name: "Best Practices (FAQs)"
         icon: "fa-question-circle"
         url: "/best-practices/"
