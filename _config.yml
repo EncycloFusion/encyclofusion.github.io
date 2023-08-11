@@ -85,7 +85,8 @@ breadcrumbs:
 navigation_categories:
     - heading: "EncycloFusion"
 
-    - label: "Source"
+    - label: "Source Code"
+      icon_type: "fa"
       icon: "fa-code"
       url: "https://github.com/EncycloFusion/encyclofusion.github.io"
 
