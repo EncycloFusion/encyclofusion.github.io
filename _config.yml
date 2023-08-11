@@ -86,7 +86,6 @@ navigation_categories:
     - heading: "EncycloFusion"
 
     - label: "Source"
-      icon_type: "img"
       icon: "fa-code"
       url: "https://github.com/EncycloFusion/encyclofusion.github.io"
 
