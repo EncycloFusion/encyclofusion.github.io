@@ -9,11 +9,11 @@ timeline:
     events:
       - date: "1988"
         event: "[François Lionet](http://community.clickteam.com/members/5273-Francois) and Constantin Sotiropoulos release STOS Basic, a game creation software for the Atari ST"
-        icon: "wiki/assets/Clickteam/STOS.png"
+        icon: "/wiki/assets/Clickteam/STOS.png"
 
       - date: "1990"
         event: "[François](http://community.clickteam.com/members/5273-Francois) and Constantin release AMOS, a game creation software for the Commodore Amiga"
-        icon: "wiki/assets/Clickteam/AMOS.png"
+        icon: "/wiki/assets/Clickteam/AMOS.png"
 
       - date: "1994"
         event: "[Yves](http://community.clickteam.com/members/5114-Yves) and [François](http://community.clickteam.com/members/5273-Francois)'s first product working together, [Klik & Play](/klik-and-play) is released."
