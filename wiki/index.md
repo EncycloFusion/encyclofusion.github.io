@@ -5,6 +5,7 @@ permalink: /
 category:
 
 menu:
+
   - title: "Clickteam Products"
     items:
       - name: "Clickteam Fusion 2.5"
@@ -23,9 +24,19 @@ menu:
         icon: "/wiki/assets/Clickteam/Icon OlderProducts.png"
         url: "/products/"
 
+  - title: "EncycloFusion"
+    items:
+      - name: "General Extension Treasury"
+        icon: "/wiki/assets/Other/geticon.png"
+        url: "/GET/"
+
+      - name: "Source"
+	    icon: "fa-code"
+        url: "https://github.com/EncycloFusion/encyclofusion.github.io"
+
   - title: "Fusion Features"
     items:
-      - name: "Extensions"
+      - name: "Extension Info"
         icon: "fa-puzzle-piece"
         url: "/extensions/"
 

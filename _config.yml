@@ -53,7 +53,7 @@ breadcrumbs:
       url: "/clickteam/"
 
     - id: extensions
-      title: "Extensions"
+      title: "Extension Info"
       url: "/extensions/"
 
     - id: fusion
@@ -84,6 +84,9 @@ breadcrumbs:
 # Header items
 navigation_categories:
     - heading: "EncycloFusion"
+      icon_type: "img"
+      icon: "/wiki/assets/Other/geticon.png"
+      url: "/GET/"
 
     - label: "Source Code"
       icon_type: "fa"

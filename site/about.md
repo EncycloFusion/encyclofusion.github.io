@@ -30,6 +30,10 @@ During 2010-2012, there was an official encyclopedia for Clickteam named **Fusio
 However, due to an unforeseen update failure, the Wiki was taken offline permanently
 and had lost **all** of its content.
 
+From 2015-2023, an unofficial encyclopedia for Clickteam existed named ClickWiki.
+On July 2023, the Wiki was archived due to not receiving any major updates in a while.
+ClickWiki was left unfinished and with a handful of misinformation on it, so TropicalBananas forked ClickWiki, with an aim of continuing what was left unfinished.
+
 This Wiki isn't the first to create and write up about Clickteam's products and features.
 Other Wikis do exist but may be in other languages, for specific communities or for different purposes.
 
@@ -46,7 +50,8 @@ Other Wikis do exist but may be in other languages, for specific communities or 
 **May 2018** | ClickWiki moves from MediaWiki to a static site powered by Jekyll.
 **July 2020** | ClickWiki migrates to **[clickwiki.github.io](https://clickwiki.github.io)**.
 **July 2023** | ClickWiki is archived, yet still an unfinished project
-**August 2023** |A fork of ClickWiki, EncycloFusion is founded by TropicalBananas
+**2 August 2023** | A fork of ClickWiki, EncycloFusion is founded by TropicalBananas
+**17 August 2023** | EncycloFusion starts hosting old Click & Create extensions at a page called [General Extension Treasury](https://encyclofusion.github.io/GET/) due to the lack of easy access to them.
 
 
 ### Contributors to ClickWiki
