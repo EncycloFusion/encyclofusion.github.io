@@ -31,7 +31,7 @@ menu:
         url: "/GET/"
 
       - name: "Source"
-	    icon: "fa-code"
+        icon: "fa-code"
         url: "https://github.com/EncycloFusion/encyclofusion.github.io"
 
   - title: "Fusion Features"
