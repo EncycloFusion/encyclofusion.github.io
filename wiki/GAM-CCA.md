@@ -26,8 +26,7 @@ the message "This is not an application file!" (in [C&C]) "Cannot open protected
 or "Cannot read a protected TGF or C&C." (in MMF and up)
 
 Historically, it was possible to contact Clickteam to unlock the file. However, as
-one of the developer's hard drives failed, the utility has been lost, but it is still possible
-to unlock GAM files using unofficial tools that we do not endorse.
+one of the developer's hard drives failed, the utility has been lost.
 
 ## Upgrading to MFA
 It is possible to upgrade older GAM/CCA files to the newer, [MFA] format by importing
