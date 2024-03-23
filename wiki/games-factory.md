@@ -28,10 +28,10 @@ links:
 ---
 
 **The Games Factory**, or shortened to **TGF** is the successor product to [Klik & Play]
-developed by Europress (now known as Clickteam). It was a sister product to
+developed by François Lionet and Yves Lamoureux, published by Europress. It was a sister product to
 [Click & Create] at release, which offered additional features and had a more
 relaxed runtime agreement. The product's distribution varied by region.
-For instance, in the United Kingdom, it was published by [Empire Interactive](https://en.wikipedia.org/wiki/Empire_Interactive)
+For instance, in the United Kingdom, it was distributed by [Empire Interactive](https://en.wikipedia.org/wiki/Empire_Interactive)
 under the publishing label [Xplosiv](https://en.wikipedia.org/wiki/Empire_Interactive#Xplosiv) (now defunct)
 
 The software was released in 1996 and is available in 2 editions: Home and Pro.
