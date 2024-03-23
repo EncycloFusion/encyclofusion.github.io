@@ -9,11 +9,11 @@ menu:
   - title: "Clickteam Products"
     items:
       - name: "Clickteam Fusion 2.5"
-        icon: "/wiki/assets/Clickteam/Icon CF2.5Dev.png"
+        icon: "/wiki/assets/Clickteam/Icon CF2.5.png"
         url: "/fusion/2.5/"
 
       - name: "Multimedia Fusion 2"
-        icon: "/wiki/assets/Clickteam/Icon MMF2Dev.png"
+        icon: "/wiki/assets/Clickteam/Icon MMF2.png"
         url: "/fusion/2.0/"
 
       - name: "Install Creator and Tools"
