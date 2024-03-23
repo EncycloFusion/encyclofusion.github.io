@@ -2,7 +2,7 @@
 layout: page
 title: Firefly Documentation
 permalink: /firefly/docs/
-category:
+category: firefly
 ---
 
 This page is meant for documentation of [Firefly]'s features.

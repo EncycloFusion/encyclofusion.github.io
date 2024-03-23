@@ -79,6 +79,10 @@ breadcrumbs:
     - id: interface
       title: "Interface & Editors"
       url: "/interface/"
+      
+    - id: firefly
+      title: "Firefly"
+      url: "/firefly/"
 
 
 # Header items

@@ -2,7 +2,7 @@
 layout: page
 title: Firefly Examples
 permalink: /firefly/examples/
-category:
+category: firefly
 ---
 
 This page is meant for tutorials on how to use [Firefly].

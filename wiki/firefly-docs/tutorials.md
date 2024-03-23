@@ -2,7 +2,7 @@
 layout: page
 title: Firefly Tutorials
 permalink: /firefly/tutorials/
-category:
+category: firefly
 ---
 
 This page is meant for tutorials on how to use [Firefly].

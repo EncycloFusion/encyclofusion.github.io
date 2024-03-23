@@ -2,7 +2,7 @@
 layout: page
 title: Learning Firefly
 permalink: /firefly/learning/
-category:
+category: firefly
 ---
 
 [Firefly] is a set of 3D extensions for [Clickteam Fusion 2.5] which has a bit of a learning curve.
