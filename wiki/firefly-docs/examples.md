@@ -15,3 +15,4 @@ At the moment, this page does not hold a lot, however you can expand it with you
 * [Easy Firefly FPS example by Peeblo](https://peeblo.itch.io/easy-clickteam-firefly-3d-fps-example)
 
 [Community Forums]: /clickteam/forums/
+[Firefly]: /firefly/

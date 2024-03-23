@@ -20,3 +20,4 @@ At the moment, this page does not hold a lot, however you can expand it with you
 * [FPS Tutorial - Part 5](https://advaith.io/firefly-tutorials-archive/FPS/step5.htm)
 
 [Community Forums]: /clickteam/forums/
+[Firefly]: /firefly/
