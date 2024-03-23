@@ -9,7 +9,7 @@ image_caption: "Screenshot of the forums as of 23rd March 2024."
 status: "Active"
 initial_release_build: "30th June 2006 (vBulletin)"
 initial_release_date: "06/2006"
-last_stable_build: "WoltLab Suite"
+last_stable_build: "2nd December 2023 (WoltLab Suite)"
 last_stable_date: "12/2023"
 shop_link: null
 support_link: null
