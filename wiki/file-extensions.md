@@ -33,7 +33,7 @@ menu:
         hint: "MMF2 and CF2.5"
 
       - name: ".ccn"
-        icon: "/wiki/assets/Clickteam/Filetypes/no-icon.png"
+        icon: "/wiki/assets/Extensions/Interface/sub-application.png"
         url: "/file-extensions/CCN/"
         hint: "Sub-applications and Vitalize!"
 

@@ -75,11 +75,6 @@ menu:
         url: "/file-extensions/CCN/"
         hint: "Allows embedding of Fusion applications to other projects."
 
-      - name: "Chowdren"
-        icon: "/wiki/assets/Platforms/Chowdren.png"
-        url: "/chowdren/"
-        hint: "Commericial exporter aimed at developers with a high budget. This exports native code for Windows, Mac, Linux, Android, HTML5, Wii U, PlayStation 4, PlayStation Vita and Nintendo 3DS."
-
 ---
 
 Exporters expand the platforms your creation can run on. [Compare Exporters](/exporters/compare).

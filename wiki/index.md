@@ -112,10 +112,6 @@ menu:
         icon: "fa-question-circle"
         url: "/best-practices/"
 
-      - name: "Chowdren"
-        icon: "/wiki/assets/Platforms/Chowdren.png"
-        url: "/chowdren/"
-
       - name: "Nivram's Examples"
         icon: "/wiki/assets/Other/NivramMMF2Examples.png"
         url: "https://castles-of-britain.com/mmf2examples.htm"
