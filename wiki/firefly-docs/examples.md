@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Firefly Tutorials
+title: Firefly Examples
 permalink: /firefly/examples/
 category:
 ---
