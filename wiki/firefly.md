@@ -22,7 +22,8 @@ languages:
 shop_link: "https://clickstore.clickteam.com/firefly3D/firefly"
 support_link: "https://community.clickteam.com/forum/board/396-firefly/"
 links:
-  - "[Buy on Steam](https://store.steampowered.com/app/267655/Firefly/)"
+  - "[View on Steam](https://store.steampowered.com/app/267655/Firefly/)"
+  - "[Steam Community Hub](https://steamcommunity.com/app/248170)"
 ---
 
 **Firefly** is a set of 3D extensions for [Clickteam Fusion 2.5]
