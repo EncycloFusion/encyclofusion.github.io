@@ -10,8 +10,8 @@ developer: "[Clickteam](/clickteam/)"
 status: "Active"
 initial_release_build: "Build 280"
 initial_release_date: "12/2013"
-last_stable_build: "Build 287.9"
-last_stable_date: "12/2016"
+last_stable_build: "Build 295.10"
+last_stable_date: "11/2023"
 last_beta_build: "Build 288.1"
 last_beta_date: "02/2017"
 predecessor: "[Multimedia Fusion 2](/fusion/2.0/)"
@@ -132,16 +132,22 @@ As with [Multimedia Fusion 2], the editor is split up into various interfaces, u
 
 
 ## Editions
+
+## Editions
+#### Developer
+![Icon for Plus](/wiki/assets/Clickteam/Icon CF2.5Plus.png){:.left .icon}
+This is an paid for DLC upgrade for the Standard and Developer editions that adds child events, global qualifiers, customizable qualifiers, a global event list editor and a DirectX 11 runtime.
+
 #### Developer
 ![Icon for Developer](/wiki/assets/Clickteam/Icon CF2.5Dev.png){:.left .icon}
 This is the complete version of the software, including a runtime that permits you to distribute credit-free, royalty-free. It also allows the use of Developer only extensions. The user will see a purple logo.
 
 #### Standard
-![Icon for Developer](/wiki/assets/Clickteam/Icon CF2.5.png){:.left .icon}
+![Icon for Standard](/wiki/assets/Clickteam/Icon CF2.5.png){:.left .icon}
 This still features the same interface from the Developer edition, but is much more affordable and doesn't work with Developer only extensions and requires the user to credit Clickteam with a "Made with Fusion" logo somewhere in their product. Users who purchase this product will see a red logo.
 
 #### Free
-![Icon for Developer](/wiki/assets/Clickteam/Icon CF2.5Free.png){:.left .icon}
+![Icon for Free](/wiki/assets/Clickteam/Icon CF2.5Free.png){:.left .icon}
 A freeware version of Fusion 2.5 that exports to HTML5 with limitations. The user is allowed to distribute any creations they create, and it forces a splash when the exported HTML5 application is ran. Users of this product will see a silver logo.
 
 **Limitations of the free version editor:**
