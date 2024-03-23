@@ -13,6 +13,7 @@ At the moment, this page does not hold a lot, however you can expand it with you
 * [Community Forums]
 * [Clickstore](https://clickstore.clickteam.com/firefly3D)
 * [Easy Firefly FPS example by Peeblo](https://peeblo.itch.io/easy-clickteam-firefly-3d-fps-example)
+* [Wolfenstein 3D FPS example by Squatter](https://steamcommunity.com/workshop/filedetails/?id=816183995)
 
 [Community Forums]: /clickteam/forums/
 [Firefly]: /firefly/

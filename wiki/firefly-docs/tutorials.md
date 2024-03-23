@@ -18,6 +18,8 @@ At the moment, this page does not hold a lot, however you can expand it with you
 * [FPS Tutorial - Part 3](https://advaith.io/firefly-tutorials-archive/FPS/step3.htm)
 * [FPS Tutorial - Part 4](https://advaith.io/firefly-tutorials-archive/FPS/step4.htm)
 * [FPS Tutorial - Part 5](https://advaith.io/firefly-tutorials-archive/FPS/step5.htm)
+* [Using GTKRadiant with Firefly](https://youtu.be/cU7ygEglJg8)
+* [Firefly and Mapping with Quake 3 Format](https://steamcommunity.com/sharedfiles/filedetails/?id=834932429)
 
 [Community Forums]: /clickteam/forums/
 [Firefly]: /firefly/
