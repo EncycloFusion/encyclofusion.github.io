@@ -12,8 +12,8 @@ initial_release_build: "Build 280"
 initial_release_date: "12/2013"
 last_stable_build: "Build 295.10"
 last_stable_date: "11/2023"
-last_beta_build: "Build 288.1"
-last_beta_date: "02/2017"
+last_beta_build: "Build 295.8"
+last_beta_date: "10/2023"
 predecessor: "[Multimedia Fusion 2](/fusion/2.0/)"
 platforms:
   - windows
