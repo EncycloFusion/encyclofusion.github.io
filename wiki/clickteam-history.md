@@ -114,7 +114,7 @@ timeline:
         icon: "/wiki/assets/Platforms/HTML5.png"
 
       - date: "Octoboer 2014"
-        event: "[Fused!](/fused/) - a new brand spanking new e-magazine is unveiled by Danny."
+        event: "[Fused!](/fused/) - a Clickteam e-magazine is unveiled by Danny."
         icon: "/wiki/assets/Clickteam/Fused Logo.png"
 
       - date: "November 2014"
