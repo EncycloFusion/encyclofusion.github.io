@@ -25,7 +25,7 @@ Vitalize! is a safe browser plugin that allows you to use games/applications mad
 This plug-in only runs on Windows and is not compatible with other operating systems.
 
 [MMF2]: /fusion/2.0/
-[TGF2]: /the-games-factory-2/
+[TGF2]: /games-factory-2/
 [.CCN]: /file-extensions/CCN/
 
 {% include TOC %}
