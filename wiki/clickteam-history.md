@@ -109,7 +109,7 @@ timeline:
         icon: "fa-user"
         isFa: true
 
-      - date: "Early 2014"
+      - date: "December 2013"
         event: "The [HTML5 Exporter](/exporters/HTML5/) is released."
         icon: "/wiki/assets/Platforms/HTML5.png"
 
@@ -138,8 +138,16 @@ timeline:
         event: "The [UWP Exporter](/exporters/UWP/) is released."
         icon: "/wiki/assets/Platforms/UWP.png"
 
+      - date: "November 2016"
+        event: "[Firefly](/firefly/) is released."
+        icon: "/wiki/assets/Clickteam/Firefly.png"
+
       - date: "2018"
         event: "Clickteam's 25th anniversary"
         icon: "/wiki/assets/Clickteam/Clickteam Logo.png"
+
+      - date: "March 2019"
+        event: "[Clickteam Fusion 2.5+](/fusion/2.5/#plus) is released."
+        icon: "/wiki/assets/Clickteam/Icon CF2.5Plus.png"
 
 ---
