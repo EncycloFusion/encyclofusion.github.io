@@ -134,7 +134,7 @@ As with [Multimedia Fusion 2], the editor is split up into various interfaces, u
 ## Editions
 
 ## Editions
-#### Developer
+#### Plus
 ![Icon for Plus](/wiki/assets/Clickteam/Icon CF2.5Plus.png){:.left .icon}
 This is an paid for DLC upgrade for the Standard and Developer editions that adds child events, global qualifiers, customizable qualifiers, a global event list editor and a DirectX 11 runtime.
 
