@@ -29,8 +29,13 @@ links:
 
 **Multimedia Fusion**, or as commonly referred to as **MMF** or **MMF1.5**
 (depending on the version at the time) is the successor product to [Click and Create]
-and [The Games Factory] developed by [Clickteam]. The software has had a long run of 8 years,
+and [The Games Factory] developed by [Clickteam]. The software had a long run of 8 years,
 before it was succeeded by [Multimedia Fusion 2].
+
+It was going to be called **Corel Click & Create 2**, however the software's licensing was
+given to IMSI, which would then cause the program to be renamed to **IMSI Multimedia Fusion**.
+**IMSI Multimedia Fusion** was a commercial flop, selling very poorly. This resulted in IMSI
+eventually selling the rights of **Multimedia Fusion** to it's developers, [Clickteam].
 
 {% include TOC %}
 
