@@ -14,7 +14,7 @@ last_stable_build: "v1.06 (build 38)"
 last_stable_date: "2000"
 last_beta_build: null
 last_beta_date: null
-predecessor: "[Klik & Play](/klik-and-play/)"
+predecessor: "[Klik & Play]"
 successor: "[Multimedia Fusion](/fusion/1.5/)"
 platforms:
   - windows9x
@@ -63,3 +63,4 @@ The license for the software was eventually given to IMSI, who rebranded it as
 [Click and Create]: /click-and-create/
 [Multimedia Fusion 2]: /fusion/2.0/
 [The Games Factory]: /games-factory/
+: /klik-and-play/
