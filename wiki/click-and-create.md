@@ -63,4 +63,4 @@ The license for the software was eventually given to IMSI, who rebranded it as
 [Click and Create]: /click-and-create/
 [Multimedia Fusion 2]: /fusion/2.0/
 [The Games Factory]: /games-factory/
-: /klik-and-play/
+[Klik & Play]: /klik-and-play/

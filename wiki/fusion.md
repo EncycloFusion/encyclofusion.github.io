@@ -34,7 +34,7 @@ menu:
 ---
 
 A line of Clickteam's widely known Multimedia Fusion series.
-Commonly apprevated as [MMF2] or [CF2.5].
+Commonly apprevated as [MMF2] or [CF].
 
-[MMF2]: /fusion/2.0/
-[CF2.5]: /fusion/2.5/
+[MMF]: /fusion/1.5/
+[CF]: /fusion/2.5/
