@@ -9,7 +9,7 @@ image_caption: "Version 1.0 running on Windows 95. Source: Anatoly Shashkin"
 developer: "[Clickteam](/clickteam/)"
 status: "Obsolete"
 initial_release_build: "v1.00"
-initial_release_date: "1996"
+initial_release_date: "05/1996"
 last_stable_build: "v1.06 (build 38)"
 last_stable_date: "2000"
 last_beta_build: null

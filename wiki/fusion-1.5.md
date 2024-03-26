@@ -37,6 +37,9 @@ given to IMSI, which would then cause the program to be renamed to **IMSI Multim
 **IMSI Multimedia Fusion** was a commercial flop, selling very poorly. This resulted in IMSI
 eventually selling the rights of **Multimedia Fusion** to it's developers, [Clickteam].
 
+[Clickteam] would then launch an online shop where it would sell Multimedia Fusion without
+the need for third party distributors.
+
 {% include TOC %}
 
 {% include thumbnail
