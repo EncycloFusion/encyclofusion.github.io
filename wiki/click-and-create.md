@@ -14,7 +14,7 @@ last_stable_build: "v1.06 (build 38)"
 last_stable_date: "2000"
 last_beta_build: null
 last_beta_date: null
-predecessor: "[Klik & Play]"
+predecessor: "[Klik & Play](/klik-and-play/)"
 successor: "[Multimedia Fusion](/fusion/1.5/)"
 platforms:
   - windows9x
