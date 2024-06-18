@@ -1,7 +1,3 @@
-{% include alert
-    type = "warning"
-    title = "This is a WIP page! if you find any missing info please contribute to this page!"
-%}
 ---
 layout: product
 title: Klik & Play
