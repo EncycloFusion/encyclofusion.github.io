@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\encyclofusion.github.io.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/Users/bosto/Documents/GitHub/encyclofusion.github.io]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/Users/bosto/Documents/GitHub/encyclofusion.github.io]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\README.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\CLICKWIKI-FILELIST-CC.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\games-factory.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\Klik_and_play.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\fusion-1.5.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\fusion-2.5.md"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <lasttime value="1718730331"/>
+</project>
