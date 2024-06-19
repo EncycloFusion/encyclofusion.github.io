@@ -15,7 +15,7 @@ last_stabe_date: "2000"
 last_beta_build: null
 last_beta_date: null
 predecessor: null
-successor: "[The Games Factory](/games-factory/)
+successor: "[The Games Factory](/games-factory/)"
 platforms:
 - windows
 languages:
@@ -24,7 +24,7 @@ languages:
 shop_link: null
 support_link: null
 links: 
-- "[Archived Klik and Play page from Clickteam in 2002](https://web.archive.org/web/20000606113504/http://clickteam.com/web/knp/about_cadre.htm)
+- "[Archived Klik and Play page from Clickteam in 2002](https://web.archive.org/web/20000606113504/http://clickteam.com/web/knp/about_cadre.htm)"
 ---
 
 **Klik & Play**, or shortened to **K&P** is the first product ever developed by [Clickteam](/clickteam). developed by François Lionet and Yves Lamoureux, Published by Europress in the Eu and Published by Maxis in the Us. Projects made in Klik & Play used the [GAM] file extension
