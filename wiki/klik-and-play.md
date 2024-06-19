@@ -4,7 +4,7 @@ title: Klik & Play
 permalink: /klik-and-play/
 category:
 
-image: "/wiki/assets/Clickteam/Icon KlikandPlay Old.jpg"
+image: "/wiki/assets/Clickteam/Icon KlikandPlay Old.png"
 image_caption: "Frame from the 3d intro for K&P"
 developer: "[Clickteam](/clickteam/)"
 status: "Obsolete"
