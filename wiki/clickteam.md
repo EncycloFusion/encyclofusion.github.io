@@ -41,13 +41,15 @@ other products in the Click range such as Install Creator (Pro) and Patch Maker.
 ##### François Lionet
 **Lead Developer:** François is the other half of the lead developers for
 [Clickteam Fusion 2.5]. His main role inside the company was working on the runtimes,
-the editors and innovating new features.
+the editors and innovating new features. As of 2014 François has left Clickteam.
 
 ## History
 #### Europress
 Europress is a British magazine and software publisher that published Yves and François's Klik & Play and The Games Factory.
 #### Corel
-Not documented yet.
+Corel Corporation is a software publisher of published [Click & Create] in the United States.
+#### IMSI
+IMSI is a software publisher who published [Multimedia Fusion] and [IMSI Multimedia Fusion Express] in the United States.
 
 [GAM]: /file-extensions/GAM/
 [Klik and Play]: /klik-and-play/
@@ -58,3 +60,4 @@ Not documented yet.
 [Clickteam Fusion 2.5]: /fusion/2.5/
 [Install Creator]: /tools/install-creator/
 [Patch Maker]: /tools/patch-maker/
+[IMSI Multimedia Fusion Express]: /click-and-create/

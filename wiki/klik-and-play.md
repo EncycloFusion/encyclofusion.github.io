@@ -17,10 +17,11 @@ last_beta_date: null
 predecessor: null
 successor: "[The Games Factory](/games-factory/)"
 platforms:
-- windows
+- windows9x
 languages:
 - en
 - fr
+- jp
 shop_link: null
 support_link: null
 links: 
@@ -29,7 +30,8 @@ links:
 
 **Klik & Play**, or shortened to **K&P** is the first product ever developed by [Clickteam](/clickteam). developed by François Lionet and Yves Lamoureux, Published by Europress in the Eu and Published by Maxis in the Us. Projects made in Klik & Play used the [GAM] file extension
 
-Klik & Play was Realeased in 1994 and was available in 2 editions: Registered and For Schools
+Klik & Play was Realeased in 1994 and was available in 2 editions: Registered and For Schools,
+
 Klik & Play was made for computer's running Windows 3.1, which makes K&P incompatible with newer versions of Windows.
 
 {% include TOC %}
