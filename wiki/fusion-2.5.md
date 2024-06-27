@@ -71,7 +71,7 @@ New and refined features have been implemented with Fusion 2.5, here is a summar
 * [Extension Manager] to download extensions from the server.
 
 #### Event Editor & Event List Editor
-* Skins can change the look, colours and icons.
+* [Skins] can change the look, colors and icons.
 * Scrolling is pixel-precise.
 * New "Find Event" / "Find Object" commands.
 * Event lines can be temporally disabled.
