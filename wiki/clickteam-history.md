@@ -121,6 +121,11 @@ timeline:
         event: "Welcome [Ben](http://community.clickteam.com/members/7819-DracisLooby) to the Clickteam!"
         icon: "fa-user"
         isFa: true
+        
+      - date: "December 2014"
+      	event: "[François Lionet](/clickteam/#françois-lionet) has left the Clickteam after working at it for 16 years"
+      	icon: "fa-user"
+      	isFa: true
 
       - date: "2015"
         event: "[XNA Exporter](/exporters/XNA/) becomes unsupported."
