@@ -123,9 +123,9 @@ timeline:
         isFa: true
         
       - date: "December 2014"
-      	event: "[François Lionet](/clickteam/##fran%C3%A7ois-lionet) has left Clickteam after working there for 16 years."
-      	icon: "fa-user"
-      	isFa: true
+        event: "[François Lionet](/clickteam/##fran%C3%A7ois-lionet) has left Clickteam after working there for 16 years."
+        icon: "fa-user"
+        isFa: true
 
       - date: "2015"
         event: "[XNA Exporter](/exporters/XNA/) becomes unsupported."
