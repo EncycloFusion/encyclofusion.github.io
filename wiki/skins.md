@@ -5,16 +5,16 @@ permalink: /interface/skins/
 category: interface
 ---
 
-Skins were added in [Fusion 2.5] v294 update.
+Skins were added in [Clickteam Fusion 2.5] v294 update.
 
-To access the skin editor goto View > Toolbars > Skin editor
+To access the skin editor, go to View > Toolbars > Skin editor.
 
 ![](/wiki/assets/Screenshots/GotoSkinEditor.png)
 
-From here you can modify the UI of [Fusion 2.5]
+From here you can modify the UI of [Fusion 2.5].
 
 ![](/wiki/assets/Screenshots/SkinEditor.png)
 
-You can also find Skins made by other on [The Clickstore](https://clickstore.clickteam.com/index.php?route=product/category&path=71_75)
+You can also find skins made by other people on [the Clickstore](https://clickstore.clickteam.com/index.php?route=product/category&path=71_75).
 
 [Fusion 2.5]: /fusion/2.5/
