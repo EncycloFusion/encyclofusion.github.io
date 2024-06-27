@@ -123,7 +123,7 @@ timeline:
         isFa: true
         
       - date: "December 2014"
-      	event: "[François Lionet](/clickteam/#françois-lionet) has left the Clickteam after working at it for 16 years"
+      	event: "[François Lionet](/clickteam/##fran%C3%A7ois-lionet) has left Clickteam after working there for 16 years."
       	icon: "fa-user"
       	isFa: true
 
