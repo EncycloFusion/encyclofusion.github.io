@@ -45,12 +45,12 @@ menu:
     items:
       - name: "Install Maker (1999)"
         icon: "/wiki/assets/Clickteam/Icon InstallMaker.png"
-        url: "/install-creator/#Old_Version"
+        url: "/tools/install-creator/#old-version"
         hint: "Older version of Install Creator"
 
       - name: "Patch Maker (1999)"
         icon: "/wiki/assets/Clickteam/Icon PatchMaker1.png"
-        url: "/patch-maker/#Old_Version"
+        url: "/tools/patch-maker/#previous-versions"
         hint: "Older version of Patch Maker"
 
       - name: "Install Creator"
