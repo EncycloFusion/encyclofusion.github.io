@@ -96,7 +96,7 @@ menu:
 
       - name: "ClickFusion Academy"
         icon: "/wiki/assets/Clickteam/ClickFusion_Academy.png"
-        url: "/clickfusion-academy/"
+        url: "https://clickfusion.academy/"
 
   - title: "Community Resources"
     items:

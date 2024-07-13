@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<project name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\encyclofusion.github.io.clpprj">
+<project name="C:\Users\bosto\Documents\GitHub\encyclo\encyclofusion.github.io\encyclofusion.github.io.clpprj">
  <settings>
   <PM_URL><![CDATA[http://localhost/C:/Users/bosto/Documents/GitHub/encyclofusion.github.io]]></PM_URL>
   <PM_HOME_URL><![CDATA[http://localhost/C:/Users/bosto/Documents/GitHub/encyclofusion.github.io]]></PM_HOME_URL>
@@ -12,12 +12,12 @@
  <removed value=";"/>
  <added value=""/>
  <lastopfiles>
-  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\README.md"/>
-  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\CLICKWIKI-FILELIST-CC.md"/>
-  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\games-factory.md"/>
-  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\Klik_and_play.md"/>
-  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\fusion-1.5.md"/>
-  <file name="C:\Users\bosto\Documents\GitHub\encyclofusion.github.io\wiki\fusion-2.5.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclo\encyclofusion.github.io\wiki\install-creator.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclo\encyclofusion.github.io\wiki\vitalize.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclo\encyclofusion.github.io\wiki\tools.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclo\encyclofusion.github.io\wiki\SynchronX.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclo\encyclofusion.github.io\wiki\click-and-create.md"/>
+  <file name="C:\Users\bosto\Documents\GitHub\encyclo\encyclofusion.github.io\wiki\index.md"/>
   <lastactivefile name=""/>
  </lastopfiles>
  <errors version="1.12.0"/>
@@ -29,5 +29,5 @@
  <yiidata/>
  <todoblock/>
  <dbgurls/>
- <lasttime value="1718730331"/>
+ <lasttime value="1719960060"/>
 </project>

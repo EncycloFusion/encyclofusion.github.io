@@ -54,7 +54,8 @@ download support, and multiple installation versions. The product can be purchas
 from the [Clickteam Shop](https://shop.clickteam.com/).
 
 ## Old Version
-Not documented.
+{% include thumbnail image = "/wiki/assets/Screenshots/InstallMakerScreenshot.png" text = "Version 1.3h running on Windows 98" %}
+Install Creator was originally named Install It! This name did not last long as it would be rebranded as Install Maker.
 
 ## Error Messages
 
