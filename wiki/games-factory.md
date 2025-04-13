@@ -18,6 +18,7 @@ predecessor: "[Klik & Play](/klik-and-play/)"
 successor: "[The Games Factory 2](/games-factory-2/)"
 platforms:
   - windows9x
+  - windows
 languages:
   - en
   - fr
@@ -36,7 +37,7 @@ under the publishing label [Xplosiv](https://en.wikipedia.org/wiki/Empire_Intera
 
 The software was released in 1996 and is available in 2 editions: Home and Pro.
 It also provided an option to install the 16-bit version (for Windows 3.1 users)
-or the 32-bit version (for Windows 95 users). Creations saved by the product used
+or the 32-bit version (for Windows 95/NT4 users). Creations saved by the product used
 the [GAM] file extension as well as being able to create stand alone executables
 with an optional installer. An unregistered "trial" version was also available.
 
