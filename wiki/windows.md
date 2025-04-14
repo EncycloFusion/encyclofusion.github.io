@@ -29,7 +29,7 @@ All new projects default to the Windows Runtime and it is probably the most wide
 {% include TOC %}
 
 # History
-The runtime could be considered old, as it is started with the older [Multimedia Fusion 1.5](/fusion/1.5) and has some bugs that cannot be fixed without re-writing code. For instance, the bug that adds a lot of white space to version details is still present in [Fusion 2.5](/fusion/2.5).
+The runtime could be considered old, as it is started with the older [Klik and Play](/klik-and-play) and has some bugs that cannot be fixed without re-writing code. For instance, the bug that adds a lot of white space to version details is still present in [Fusion 2.5](/fusion/2.5).
 
 # Formats
 Since the début of [Multimedia Fusion](/fusion) and [The Games Factory](/games-factory), the runtime has been capable of creating applications, games, and screensavers in the following formats:
