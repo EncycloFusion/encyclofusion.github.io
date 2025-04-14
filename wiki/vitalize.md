@@ -19,7 +19,7 @@ links:
   - "[Forum](https://community.clickteam.com/forums/212-Vitalize)"
 ---
 
-Vitalize! is a super safe browser plugin that allows you to use games/applications made with [MMF2],
+Vitalize! is a retired browser plugin that allows you to use games/applications made with [MMF2],
 [TGF2], and their older visual game and app creation tools. It uses the file format [.CCN].
 
 This plug-in only runs on Windows and is not compatible with other operating systems.
