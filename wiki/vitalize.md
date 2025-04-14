@@ -42,7 +42,7 @@ Browser                                                         | Compatible wit
 ![](/wiki/assets/Browsers/IE.png)           Internet Explorer   | Yes
 ![](/wiki/assets/Browsers/Safari.png)       Safari for Windows  | Yes
 ![](/wiki/assets/Browsers/Opera.png)        Opera               | No
-![](/wiki/assets/Browsers/SeaMonkey.png)    SeaMonkey           | no
+![](/wiki/assets/Browsers/SeaMonkey.png)    SeaMonkey           | No
 ![](/wiki/assets/Browsers/Camino.png)       Camino              | No
 ![](/wiki/assets/Browsers/Edge.png)         Microsoft Edge      | No
 ![](/wiki/assets/Browsers/Netscape.png)     Netscape Navigator  | Yes
