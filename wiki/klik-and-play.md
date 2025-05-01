@@ -5,7 +5,7 @@ permalink: /klik-and-play/
 category:
 
 image: "/wiki/assets/Clickteam/Icon KlikandPlay Old.png"
-image_caption: "Frame from the 3d intro for K&P"
+image_caption: "Frame from the 3D intro for K&P"
 developer: "[Clickteam](/clickteam/)"
 status: "Obsolete"
 initial_release_build: "v1.00"
@@ -28,11 +28,11 @@ links:
 - "[Archived Klik and Play page from Clickteam in 2002](https://web.archive.org/web/20000606113504/http://clickteam.com/web/knp/about_cadre.htm)"
 ---
 
-**Klik & Play**, or shortened to **K&P** is the first product ever developed by [Clickteam](/clickteam). developed by François Lionet and Yves Lamoureux, Published by Europress in the Eu and Published by Maxis in the Us. Projects made in Klik & Play used the [GAM] file extension
+**Klik & Play**, or **KnP** for short, is a game creation toolkit intended for beginners, developed by François Lionet and Yves Lamoureux, and published by Europress in Europe and Maxis in the United States. Projects made in Klik & Play use the [GAM] file extension.
 
-Klik & Play was Realeased in 1994 and was available in 2 editions: Registered and For Schools,
+Klik & Play was made primarily for computers running 16-bit versions of Windows, and is therefore incompatible with newer versions of Windows without the use of special software such as otvdm.
 
-Klik & Play was made for computer's running Windows 3.1, which makes K&P incompatible with newer versions of Windows.
+It has 2 editions: Registered and For Schools.
 
 {% include TOC %}
 
@@ -44,21 +44,21 @@ Klik & Play was made for computer's running Windows 3.1, which makes K&P incompa
 ## Editions
 
 ### Registered
-The registered version is the full retail copy of K&P, it came with 4 floppy disks, a manual, and a quickstart guide.
+The registered version is the full retail copy of Klik & Play. It came with 4 floppy disks, a manual, and a quickstart guide.
 
 ### For Schools
-Klik & Play For Schools is the free shareware versions of K&P that would be used in a school envirement.
+Klik & Play For Schools is the free shareware version of Klik & Play that was intended for use in a school environment.
 
 ## Versions
 
 ### V1.0
-Initial Release
+Initial release.
 
 ### V1.1
-Not Documented
+Not documented.
 
 ### V1.2
-Not Documented
+Not documented.
 
 ## Gallery
 {% include gallery
