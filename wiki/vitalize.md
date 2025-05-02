@@ -49,7 +49,7 @@ Browser                                                         | Compatible wit
 
 [Find out which browser you are using.](https://whatismybrowser.com/)
 
-**Tip:** If your browser is not listed here, please check [whatismybrowser.org]([https://whatismybrowser.com](https://www.whatismybrowser.com/)).
+**Tip:** If your browser is not listed here, please check [whatismybrowser.org](https://www.whatismybrowser.com/)).
 If you are using a browser not listed here, then you can test Vitalize! by going
 to [http://www.clickteam.com/vitalize4/testv4.html]
 
