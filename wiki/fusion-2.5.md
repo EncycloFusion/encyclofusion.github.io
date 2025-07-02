@@ -99,7 +99,7 @@ New and refined features have been implemented with Fusion 2.5, here is a summar
 
 
 ### Changes
-* The software, as well as EXEs produced will no longer run on Windows 9x, Windows NT 4.0 or Windows 2000. Windows XP SP3 or higher is required.
+* The software, as well as EXEs produced will no longer run on Windows 9x, Windows NT 4.0, Windows 2000 or XP RTM-SP2. Windows XP SP3 or higher is required.
 * [Vitalize!] and [Java] has been dropped, but still can be built if [Multimedia Fusion 2] is installed on the same machine. A checkbox called "Show deprecated build types" will appear.
 * If you had the [Unicode] exporter for [MMF2], it will no longer work in [MMF2].
 * Exporter installations for [MMF2] will require new ones for [Fusion 2.5].
