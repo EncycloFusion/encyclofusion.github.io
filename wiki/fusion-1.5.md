@@ -93,7 +93,7 @@ The following extension is incompatible with Aero:
 
 **kcqtw3.cox**
 
-It hangs the application on Windows Vista and 7, but doesn’t on Windows 11.
+It hangs the application on Windows Vista and 7, but doesn’t on Windows 11. A solution is to disable Aero or DWM,setting the theme to Aero Basic.
 
 [Clickteam]: /clickteam/
 [Click and Create]: /click-and-create/
