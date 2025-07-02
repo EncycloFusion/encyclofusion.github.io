@@ -4,7 +4,7 @@ title: License
 permalink: /license/
 ---
 
-ClickWiki consists of data available under these licenses:
+EncycloFusion Wiki consists of data available under these licenses:
 
 * **[GPLv3](/license/#GPLv3)** - Website assets & code that delivers the core functionality of the website.
     * `site/`
