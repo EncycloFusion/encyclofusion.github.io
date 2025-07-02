@@ -31,7 +31,7 @@ When the transition to [VBulletin] was made, the older forums remained open
 as an archive but was closed in July 2012 due to suspicious behaviour. Due to
 the archive split, some old threads may still link to **clickteam.com/epiccenter/**
 which will now return a 404 error page. Some older threads may also have duplicate posts.
-On the 2nd of December of 2034, the forums transitioned to WoltLab Suite.
+On the 2nd of December of 2023, the forums transitioned to WoltLab Suite.
 
 ## Features
 The forums has thousands of threads that cover a wide range of topics, including:
