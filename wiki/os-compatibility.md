@@ -17,7 +17,7 @@ Clickteam's products are built and designed for Windows and are fully supported 
 #### Minimum Requirements
 
 - [Fusion 2.5](/fusion/2.5/) only runs and exports for **Windows XP Service Pack 3** or newer.
-- [Multimedia Fusion 2](/fusion/2.0/) can be run and exports for **Windows 98 Second Edition** and newer.
+- [Multimedia Fusion 2](/fusion/2.0/) can officially be run and exported for **Windows 98 Second Edition** and newer. Apps made using MMF2 and lower can also run on Windows 95,NT 4.0 and 98FE.
 
 #### Potential Problems
 
