@@ -30,7 +30,7 @@ links:
 
 **Klik & Play**, or **KnP** for short, is a game creation toolkit intended for beginners, developed by François Lionet and Yves Lamoureux, and published by Europress in Europe and Maxis in the United States. Projects made in Klik & Play use the [GAM] file extension.
 
-Klik & Play was made primarily for computers running 16-bit versions of Windows, and is therefore incompatible with newer versions of Windows without the use of special software such as otvdm.
+Klik & Play was made primarily for computers running 16-bit versions of Windows, and is therefore incompatible with 64-bit versions of Windows without the use of special software such as otvdm.
 
 It has 2 editions: Registered and For Schools.
 
