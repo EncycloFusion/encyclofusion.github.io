@@ -16,7 +16,7 @@ links:
   - "[Main Page](http://www.clickteam.com/vitalize4/download.html)"
   - "[Vitalize4 Test Page](http://www.clickteam.com/vitalize4/testv4.html)"
   - "[Download](http://www.clickteam.com/vitalize4/instvtz4.exe)"
-  - "[Forum](https://community.clickteam.com/forums/212-Vitalize)"
+  - "[Forum](https://community.clickteam.com/forums/212-vitalize)"
 ---
 
 Vitalize! is a retired browser plugin that allows you to use games/applications made with [MMF2],
