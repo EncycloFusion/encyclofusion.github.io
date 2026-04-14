@@ -9,7 +9,7 @@ image_caption: "Cover Artwork"
 developer: "[Clickteam](/clickteam/)"
 status: "Supported"
 initial_release_build: "Build 239"
-initial_release_date: "04/2016"
+initial_release_date: "06/2006"
 last_stable_build: "Build 258.2"
 last_stable_date: "04/2013"
 last_beta_build: null
