@@ -1,4 +1,4 @@
-**The following files in this list are derivative works of [ClickWiki](https://github.com/ClickWiki/clickwiki.github.io) and it's contributors, which licensed them under [GPLv3](/LICENSE-GPLv3), unless the file is owned by a brand, in which case we would be using it under "Fair Use".**
+**The following files in this list are derivative works of [ClickWiki](https://github.com/ClickWiki/clickwiki.github.io) and its contributors, which licensed them under [GPLv3](/LICENSE-GPLv3), unless the file is owned by a brand, in which case we would be using it under "Fair Use".**
 ```
 Root
 ¦   

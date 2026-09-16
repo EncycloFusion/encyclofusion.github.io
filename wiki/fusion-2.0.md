@@ -30,7 +30,7 @@ links:
 
 **Multimedia Fusion 2**, or as commonly referred to as **MMF2** is a visual programming
 tool by [Clickteam] to allow the creation of applications and games.
-It is the successor to [Multimedia Fusion 1.5] but is now preceded by [Clickteam Fusion 2.5].
+It is the successor to [Multimedia Fusion 1.5] but is now succeeded by [Clickteam Fusion 2.5].
 There are 3 editions of the software, each sharing the same interface, but offer different
 features, additional [exporters](/exporters/), and [runtime agreements](/runtime-agreement/).
 

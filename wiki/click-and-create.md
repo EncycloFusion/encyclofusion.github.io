@@ -11,7 +11,7 @@ status: "Obsolete"
 initial_release_build: "v1.00"
 initial_release_date: "05/1996"
 last_stable_build: "v1.06 (build 38)"
-last_stable_date: "2000"
+last_stable_date: "02/2000"
 last_beta_build: null
 last_beta_date: null
 predecessor: "[Klik & Play](/klik-and-play/)"
@@ -24,8 +24,8 @@ languages:
 shop_link: null
 support_link: null
 links:
-  - "[Update v1.06 16-Bit](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/updates/cnc/ccupd31.exe)"
-  - "[Update v1.06 32-Bit](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/updates/cnc/ccupd32.exe)"
+  - "[Update v1.06 16-Bit](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/clickteam/updates/cnc/ccupd31.exe)"
+  - "[Update v1.06 32-Bit](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/clickteam/updates/cnc/ccupd32.exe)"
 ---
 
 **Corel Click & Create**, shortened to **CNC** and also known

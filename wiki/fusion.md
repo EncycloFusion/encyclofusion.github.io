@@ -13,15 +13,15 @@ menu:
 
       - name: "Multimedia Fusion (1998)"
         icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
-        url: "/fusion/1.5/#Version_1.0"
+        url: "/fusion/1.x/#Version_1.0"
 
       - name: "Multimedia Fusion 1.2 (2000)"
         icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
-        url: "/fusion/1.5/#Version_1.2"
+        url: "/fusion/1.x/#Version_1.2"
 
       - name: "Multimedia Fusion 1.5 (2001)"
         icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
-        url: "/fusion/1.5/#Version_1.5"
+        url: "/fusion/1.x/#Version_1.5"
 
       - name: "Multimedia Fusion 2 (2006)"
         icon: "/wiki/assets/Clickteam/Icon MMF2.png"

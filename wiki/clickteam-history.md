@@ -19,7 +19,7 @@ timeline:
         event: "[Yves](http://community.clickteam.com/members/5114-Yves) and [François](http://community.clickteam.com/members/5273-Francois)'s first product working together, [Klik & Play](/klik-and-play) is released."
         icon: "/wiki/assets/Clickteam/Icon_KlikandPlay.png"
 
-      - date: "1996"
+      - date: "May 1996"
         event: "Their second product, [Click and Create](/click-and-create/) is released."
         icon: "/wiki/assets/Clickteam/Icon ClickandCreate.png"
 
@@ -27,25 +27,21 @@ timeline:
         event: "[The Games Factory](/games-factory/) is released. _'The world's first power tool to make your own computer games.'_"
         icon: "/wiki/assets/Clickteam/Icon_TGF1.png"
 
-      - date: "1998"
-        event: "[Multimedia Fusion](/fusion/1.5/#Version_1.0) is released."
+      - date: "June 1998"
+        event: "[Multimedia Fusion 1.0](/fusion/1.5/#Version_1.0) is released."
         icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
 
-      - date: "2000"
+      - date: "June 2000"
         event: "[Multimedia Fusion](/fusion/1.5/#Version_1.2) recieves a minor update to 1.2."
         icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
 
-      - date: "2001"
-        event: "[Multimedia Fusion](/fusion/1.5/#Version_1.5) recieves a minor update to 1.5."
+      - date: "September 2001"
+        event: "[Multimedia Fusion 1.5](/fusion/1.5/#Version_1.5) is released."
         icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
 
       - date: "2001"
         event: "[Jamagic](/Jamagic/) is released."
         icon: "/wiki/assets/Clickteam/Icon Jamagic.png"
-
-      - date: "2002"
-        event: "[Multimedia Fusion Pro](/fusion/1.5/) is released."
-        icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
 
       - date: "June 2006"
         event: "[The Games Factory 2](/games-factory-2/) and [Multimedia Fusion 2](/fusion/2.0/) is released."
@@ -113,7 +109,7 @@ timeline:
         event: "The [HTML5 Exporter](/exporters/HTML5/) is released."
         icon: "/wiki/assets/Platforms/HTML5.png"
 
-      - date: "Octoboer 2014"
+      - date: "October 2014"
         event: "[Fused!](/fused/) - a Clickteam e-magazine is unveiled by Danny."
         icon: "/wiki/assets/Clickteam/Fused Logo.png"
 

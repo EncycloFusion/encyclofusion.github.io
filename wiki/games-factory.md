@@ -41,6 +41,12 @@ or the 32-bit version (for Windows 95/NT4 users). Creations saved by the product
 the [GAM] file extension as well as being able to create stand alone executables
 with an optional installer. An unregistered "trial" version was also available.
 
+When Click & Create was officially discontinued by Clickteam due to Multimedia Fusion
+being its successor, The Games Factory was still sold alongside Multimedia Fusion as
+the budget option, despite The Games Factory being a stripped down version of Click & Create.
+This was because Multimedia Fusion had a steeper price, and as such The Games Factory lacked 
+a budget Clickteam product to succede it at the time. The Games Factory was sold for 10 years,
+from 1996 until 2006, when The Games Factory 2 was released alongside Multimedia Fusion 2 to succeed it.
 {% include TOC %}
 
 ## Editions

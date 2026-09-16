@@ -17,7 +17,7 @@ and even more with in-depth information. Our aim with the Wiki is to provide **f
 that make finding **answers simple to find**. We strike for **detail** to enable you to
 **discover more possibilities** for Fusion and your projects.
 
-EncycloFusion was forked from ClickWiki due to ClickWiki being archived, despite still being unfinished and containing some inaccurate information.
+EncycloFusion was forked from ClickWiki due to ClickWiki being archived and discontinued, despite still being unfinished and containing some inaccurate information.
 We aim to fix that.
 
 The Wiki acts as a bridge between the help documentation, centralising tips & tricks
@@ -30,11 +30,11 @@ During 2010-2012, there was an official encyclopedia for Clickteam named **Fusio
 However, due to an unforeseen update failure, the Wiki was taken offline permanently
 and had lost **all** of its content.
 
-From 2015-2023, an unofficial encyclopedia for Clickteam existed named ClickWiki.
-On July 2023, the Wiki was archived due to not receiving any major updates in a while.
-ClickWiki was left unfinished and with a handful of misinformation on it, so TropicalBananas forked ClickWiki, with an aim of continuing what was left unfinished.
+From 2015-2023, there was another unofficial encyclopedia for Clickteam named ClickWiki.
+On July 2023, the Wiki was archived due to not receiving any updates since 2020, being effectively abandoned.
+ClickWiki was left unfinished and with a handful of misinformation in it, so TropicalBananas forked ClickWiki, with an aim of continuing what was left unfinished.
 
-This Wiki isn't the first to create and write up about Clickteam's products and features.
+This Wiki isn't the first to write about Clickteam's products and features.
 Other Wikis do exist but may be in other languages, for specific communities or for different purposes.
 
 ### Timeline
@@ -59,7 +59,8 @@ Other Wikis do exist but may be in other languages, for specific communities or 
 **Thank you to all ClickWiki contributors in the past!**
 
 Here's everyone who helped ClickWiki prior to the **May 2018 update**, these clickers
-contributed pages, graphics or typos.
+contributed pages, graphics or typos. EncycloFusion as we have it now would not have
+been possible without them.
 
 * **Wiki Warriors**
   * [Lh37](https://community.clickteam.com/members/10723-lh37)
@@ -86,7 +87,14 @@ contributed pages, graphics or typos.
 ###### **Are you endorsed by Clickteam?**
 **No.** Besides being customers and users of their product. This project is not associated with Clickteam.
 This Wiki is purely community ran and relies on your contributions to reach its full potential. That said,
-members of the Clickteam have contributed and promoted our Wiki! You may have read about us in [Fused](/fused).
+we are linked as a resource on the Clickteam Forum's Fusion 2.5 resources section where you may have seen it, and 
+members of the Clickteam have contributed to and promoted our predecessor, ClickWiki. You may have read about it in [Fused](/fused).
+
+###### **Is this wiki associated with ClickWiki?**
+The author of EncycloFusion, TropicalBananas, did not work on the original ClickWiki and was not associated
+with ClickWiki, but with ClickWiki having been abandoned, he decided to use it as a base to build EncycloFusion
+as a continuation and successor to it, keeping the same open source nature and base while updating the
+information and adding more resources.
 
 ### Gallery
 {% include gallery

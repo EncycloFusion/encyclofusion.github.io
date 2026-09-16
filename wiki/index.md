@@ -167,7 +167,7 @@ menu:
         url: "/clickjam/"
 ---
 
-EncycloFusion is a Wiki all about [Clickteam]! We have information about Clickteam products both new and old, [extensions](GET), facts, community resources and documentation! If you would like to contribute, please check out our [Getting Started Page]!
+EncycloFusion is a Wiki all about [Clickteam]! We have information about Clickteam products both new and old, [extensions](GET), facts, community resources and documentation! If you would like to contribute, please check out our [Getting Started Page]! EncycloFusion is a successor and continutation of the old ClickWiki that was discontinued back in 2023.
 
 [Clickteam]: /clickteam
 [Extensions]: /extensions
