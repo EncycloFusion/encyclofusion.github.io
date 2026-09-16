@@ -14,6 +14,7 @@ last_stable_build: "v2.0"
 last_stable_date: "2016"
 platforms:
   - windows
+  - windows9x
 languages:
   - en
   - fr
