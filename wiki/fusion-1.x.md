@@ -17,6 +17,7 @@ last_beta_date: null
 predecessor: "[Click and Create](/click-and-create/)"
 successor: "[Multimedia Fusion 2](/fusion/2.0/)"
 platforms:
+  - windows9x
   - windows
 languages:
   - en

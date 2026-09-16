@@ -18,6 +18,7 @@ predecessor: "[Klik & Play](/klik-and-play/)"
 successor: "[Multimedia Fusion](/fusion/1.5/)"
 platforms:
   - windows9x
+  - windows
 languages:
   - en
   - fr

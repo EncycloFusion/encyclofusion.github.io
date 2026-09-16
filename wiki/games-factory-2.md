@@ -17,6 +17,7 @@ last_beta_date: null
 predecessor: "[The Games Factory](/games-factory/)"
 successor: "[Clickteam Fusion 2.5](/fusion/2.5/)"
 platforms:
+  - windows9x
   - windows
 languages:
   - en

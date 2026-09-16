@@ -47,6 +47,7 @@ the budget option, despite The Games Factory being a stripped down version of Cl
 This was because Multimedia Fusion had a steeper price, and as such The Games Factory lacked 
 a budget Clickteam product to succede it at the time. The Games Factory was sold for 10 years,
 from 1996 until 2006, when The Games Factory 2 was released alongside Multimedia Fusion 2 to succeed it.
+
 {% include TOC %}
 
 ## Editions

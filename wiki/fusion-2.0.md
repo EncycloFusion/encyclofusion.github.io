@@ -17,6 +17,7 @@ last_beta_date: null
 predecessor: "[Multimedia Fusion 1.5](/fusion/1.5/)"
 successor: "[Clickteam Fusion 2.5](/fusion/2.5/)"
 platforms:
+  - windows9x
   - windows
 languages:
   - en
