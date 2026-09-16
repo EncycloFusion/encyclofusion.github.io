@@ -112,7 +112,7 @@ If the updater is run without administrator privileges, it will fail to add the 
 See all that gibberish after the text “test”? those are garbage characters, and that is a problem due to a bug in the **MMFUSION.exe** application.
 It can be fixed if you download the following extension and drop it in your extensions folder:
 
-[**MMFCompat.cox**](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/encyclofusion/MMFCompat/MMFCompat.cox)" [(Source Code)](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/encyclofusion/MMFCompat/MMFCompat.zip)"
+[**MMFCompat.cox**](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/encyclofusion/MMFCompat/MMFCompat.cox) [(Source Code)](https://github.com/EncycloFusion/encyclofusion.github.io/raw/main/freeware/encyclofusion/MMFCompat/MMFCompat.zip)
 
 MMFCompat.cox (**MMF 1.x compatibility fix**) is an unofficial bug-fix extension for Multimedia Fusion 1.x that was created by Joshtek, revised by TropicalBananas, and published by the EncycloFusion project.
 This extension is somewhat different from other MMF extensions because it only serves to fix a bug in the MMF editor that does not affect the runtime executable.
