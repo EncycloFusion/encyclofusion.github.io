@@ -30,7 +30,7 @@ menu:
       - name: "Clickteam Fusion 2.5 (2013)"
         icon: "/wiki/assets/Clickteam/Icon CF2.5.png"
         url: "/fusion/2.5/"
-		
+
       - name: "FusionCR (2026)"
         icon: "/wiki/assets/Clickteam/IconFCR.svg"
         url: "/fusion/cr/"
