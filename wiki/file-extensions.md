@@ -31,6 +31,12 @@ menu:
         icon: "/wiki/assets/Clickteam/Filetypes/MFA.png"
         url: "/file-extensions/MFA/"
         hint: "MMF2 and CF2.5"
+        
+
+      - name: ".fusioncr"
+        icon: "/wiki/assets/Clickteam/Filestypes/fusioncr.png"
+        url: "/File-extension/fusioncr(File-Extenstion)"
+        hint: "FusionCR"
 
       - name: ".ccn"
         icon: "/wiki/assets/Extensions/Interface/sub-application.png"
