@@ -34,7 +34,7 @@ links:
   - "[Compare Versions](#comparison)"
 ---
 
-**Clickteam Fusion 2.5**, or simply **Fusion 2.5** is an upgrade from [Clickteam] featuring a highly optimised runtime and new exporters. It is the successor to [Multimedia Fusion 2] and marks an end to the [The Games Factory] brand. Likewise with [Multimedia Fusion 2], there are multiple editions of the software, sharing the same interface but have different runtime agreements and features.
+**Clickteam Fusion 2.5**, or simply **Fusion 2.5** is a visual programming tool from [Clickteam] which is a succesor to [Multimedia Fusion 2] that features a highly optimised runtime and new exporters. It marked an end to the [The Games Factory] brand, with Clickteam choosing to replace it with Clickteam Fusion 2.5 Free in 2013, and later offering [FusionCR] in 2026 as a separate entry level alternative. Likewise with [Multimedia Fusion 2], there are multiple editions of the software, sharing the same interface but have different runtime agreements and features.
 
 The software is compatible with previously saved [MFA] files, but once saved, cannot be opened in [MMF2]. Most extensions will continue working without needing updates from the developer. Extensions that were broken have since been fixed.
 
@@ -177,6 +177,7 @@ The [Mac Export Module](/exporters/mac/) comes built in with the Mac Editor (as 
 
 [Clickteam]: /clickteam/
 [Fusion 2.5]: /fusion/2.5/
+[FusionCR]: /fusion/cr/
 [Multimedia Fusion 2]: /fusion/2.0/
 [MMF2]: /fusion/2.0/
 [The Games Factory]: /games-factory/

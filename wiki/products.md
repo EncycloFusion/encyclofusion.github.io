@@ -44,7 +44,7 @@ menu:
       - name: "FusionCR (2026)"
         icon: "/wiki/assets/Clickteam/IconFCR.svg"
         url: "/fusion/cr/"
-		hint: "This is not a direct successor to CF2.5, it is an entry level option"
+        hint: "This is not a direct successor to CF2.5, it is an entry level option"
 
   - title: Tools
     items:
