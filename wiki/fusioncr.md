@@ -50,15 +50,14 @@ called **Tritium** which can be used to buy premium tutorials, exclusive premium
     text = "App Icon"
 %}
 
-{% include thumbnail
-    image = "/wiki/assets/Clickteam/FCRCommunityIcon.png"
-    text = "Community Icon"
-%}
-
 ## Gallery
 {% include gallery
     image = "/wiki/assets/Clickteam/LogoFCR.svg"
     text = "Clickteam FusionCR Brand Logo"
+%}
+{% include gallery
+    image = "/wiki/assets/Clickteam/FCRCommunityIcon.png"
+    text = "Community Icon"
 %}
 {% include gallery
     image = "/wiki/assets/Screenshots/fusioncrlightmode.png"

@@ -16,10 +16,6 @@ menu:
         icon: "/wiki/assets/Clickteam/IconFCR.svg"
         url: "/fusion/cr/"
 
-      - name: "Multimedia Fusion 2"
-        icon: "/wiki/assets/Clickteam/Icon MMF2.png"
-        url: "/fusion/2.0/"
-
       - name: "Install Creator and Tools"
         icon: "/wiki/assets/Clickteam/Icon InstallCreator.png"
         url: "/tools/"
