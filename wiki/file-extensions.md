@@ -42,10 +42,20 @@ menu:
         url: "/file-extensions/CCN/"
         hint: "Sub-applications and Vitalize!"
 
+      - name: ".gox and .cox (C&C)"
+        icon: "/wiki/assets/Clickteam/Filetypes/no-icon.png"
+        url: "/file-extensions/MFX/"
+        hint: "The Games Factory/Click & Create Extension"
+
+      - name: ".cox (MMF1)"
+        icon: "/wiki/assets/Clickteam/Filetypes/no-icon.png"
+        url: "/file-extensions/MFX/"
+        hint: "Multimedia Fusion 1.x Extension"
+
       - name: ".mfx"
         icon: "/wiki/assets/Clickteam/Filetypes/no-icon.png"
         url: "/file-extensions/MFX/"
-        hint: "Multimedia Fusion Extension"
+        hint: "MMF2 and CF2.5 Extension"
 
       - name: ".iit"
         icon: "/wiki/assets/Clickteam/Filetypes/IIT.png"
