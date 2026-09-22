@@ -14,8 +14,7 @@ last_stable_build: null
 last_stable_date: null
 last_beta_build: null
 last_beta_date: null
-predecessor: "[Klik & Play](/klik-and-play/)"
-successor: "[Multimedia Fusion](/fusion/1.5/)"
+predecessor: "[The Games Factory 2](/games-factory-2/) or [The Games Factory](/games-factory/)"
 platforms:
   - html5
 languages:
