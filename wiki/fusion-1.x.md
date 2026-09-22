@@ -56,10 +56,18 @@ budget option because the price of Multimedia Fusion was steeper.
 ## Editions
 
 #### Standard
-Not yet documented.
+Multimedia Fusion Standard required the user to include Clickteam branding (the "Fueled with Fusion" logo) in commercially
+distributed applications, although this was not a requirement with freeware applications.
 
 #### Pro
-Not yet documented.
+Multimedia Fusion Pro allowed the user to commercially distribute applications without including the "Fueled with Fusion" logo.
+
+Although this was the main difference between the two editions, the MMF extension SDK allowed an extension developer to mark an
+extension as Pro-only, which would make the extension only be usable in MMF Pro. MMF Pro-only extensions include the Dialog Box
+extension among a couple of others. Most Pro-only extensions were either developed by Clickteam or developed by other developers
+but included in Bonus Packs, because extension developers otherwise had little incentive to make an extension be exclusive to MMF Pro.
+
+Multimedia Fusion Pro is the MMF 1.x equivalent of Multimedia Fusion 2 Developer and Clickteam Fusion 2.5 Developer.
 
 ## Versions
 
@@ -67,6 +75,7 @@ Not yet documented.
 IMSI Multimedia Fusion 1.0 is the first version of IMSI Multimedia Fusion, which was released in 1998 and distributed by IMSI.
 It had an IMSI Registration Wizard, which was not in version 1.2.
 It has the most commonly known objects, including Array, Button, Window Control, List, INI, and so on.
+
 The stock release of MMF1.0 on the disc is build 87.
 MMF builds 92 and 93 are described in the MMF1.2 changelog as being Multimedia Fusion 1.1.
 
@@ -83,6 +92,7 @@ Multimedia Fusion 1.2 was released by Clickteam in June 2000 when they started d
 It has most of the same features as MMF1.0 and appears to not have all too many differences, aside from minor ones such as bug fixes.
 It was mostly distributed as an update patch for MMF1.0, and build 98 of MMF1.2 was also included on MMF1.5 discs for the purpose of building 16-bit Windows applications because MMF1.5 removed support for building 16-bit Windows applications.
 The update wizard for MMF1.0 to MMF1.2 makes note that MMF1.2 is not supported by IMSI and that any questions should be sent to Clickteam.
+
 The earliest version of MMF1.2 is build 94, and the latest version of MMF1.2 is build 98.
 
 #### Version 1.5
