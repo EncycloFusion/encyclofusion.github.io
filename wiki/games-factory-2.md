@@ -15,7 +15,7 @@ last_stable_date: "04/2013"
 last_beta_build: null
 last_beta_date: null
 predecessor: "[The Games Factory](/games-factory/)"
-successor: "[Clickteam Fusion 2.5](/fusion/2.5/)"
+successor: "[Clickteam Fusion 2.5](/fusion/2.5/) or [FusionCR](/fusion/cr/)"
 platforms:
   - windows9x
   - windows
@@ -32,7 +32,9 @@ links:
 [Multimedia Fusion 2] designed for home users looking to create applications and games
 without needing to learn code. It continues the original The Games Factory brand name
 as well as visually sharing the same interface as MMF2 and using the MFA format.
-The brand name has now been discontinued and is now preceded by [Clickteam Fusion 2.5].
+The TGF brand name was discontinued and succeeded in 2013 by [Clickteam Fusion 2.5].
+In 2026, Clickteam released [FusionCR] as an entry level Click product in a similar vein
+to the TGF line.
 
 This edition of [Multimedia Fusion 2] is much more limited and stripped down.
 There was also a special release designed to create Flash games for the [Newgrounds](http://www.newgrounds.com/) website.
@@ -86,3 +88,4 @@ Upon closing the "Expired" window, the program may continue to work normally.
 
 [Multimedia Fusion 2]: /fusion/2.0/
 [Clickteam Fusion 2.5]: /fusion/2.5/
+[FusionCR]: /fusion/cr/
