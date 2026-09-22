@@ -56,10 +56,6 @@ called **Tritium** which can be used to buy premium tutorials, exclusive premium
     text = "Clickteam FusionCR Brand Logo"
 %}
 {% include gallery
-    image = "/wiki/assets/Clickteam/FCRCommunityIcon.png"
-    text = "Community Icon"
-%}
-{% include gallery
     image = "/wiki/assets/Screenshots/fusioncrlightmode.png"
     text = "FusionCR event editor in light mode"
 %}
