@@ -40,6 +40,11 @@ menu:
       - name: "The Games Factory 2 (2006)"
         icon: "/wiki/assets/Clickteam/Icon TGF2.png"
         url: "/games-factory-2/"
+		
+      - name: "FusionCR (2026)"
+	    icon: "/wiki/assets/Clickteam/IconFCR.svg"
+        url: "/fusion/cr/"
+		hint: "This is not a direct successor to CF2.5, it is an entry level option"
 
   - title: Tools
     items:

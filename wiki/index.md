@@ -11,6 +11,10 @@ menu:
       - name: "Clickteam Fusion 2.5"
         icon: "/wiki/assets/Clickteam/Icon CF2.5.png"
         url: "/fusion/2.5/"
+		
+	  - name: "FusionCR"
+	    icon: "/wiki/assets/Clickteam/IconFCR.svg"
+        url: "/fusion/cr/"
 
       - name: "Multimedia Fusion 2"
         icon: "/wiki/assets/Clickteam/Icon MMF2.png"

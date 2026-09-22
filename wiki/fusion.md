@@ -27,14 +27,19 @@ menu:
         icon: "/wiki/assets/Clickteam/Icon MMF2.png"
         url: "/fusion/2.0/"
 
-      - name: "Clickteam Fusion 2.5 (2011)"
+      - name: "Clickteam Fusion 2.5 (2013)"
         icon: "/wiki/assets/Clickteam/Icon CF2.5.png"
         url: "/fusion/2.5/"
+		
+      - name: "FusionCR (2026)"
+        icon: "/wiki/assets/Clickteam/IconFCR.svg"
+        url: "/fusion/cr/"
+		hint: "This is not a direct successor to CF2.5, it is an entry level option"
 
 ---
 
-A line of Clickteam's widely known Multimedia Fusion series.
-Commonly apprevated as [MMF] or [CF].
+Clickteam's widely known Multimedia Fusion series line.
+Commonly abbreviated as [MMF] or [CF].
 
 [MMF]: /fusion/1.5/
 [CF]: /fusion/2.5/
