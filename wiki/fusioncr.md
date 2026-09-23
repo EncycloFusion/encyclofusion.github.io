@@ -37,6 +37,8 @@ FusionCR is not meant to be a direct successor to [Clickteam Fusion 2.5], it is 
 an entry level light development tool primarily for hobbyists, casual game developers, and educators,
 similarly to The Games Factory but for web browsers and mobile devices. Applications created in FusionCR can
 be exported as .GAM files which can be opened in Fusion 2.5, or as .FusionCR files specifically for FusionCR.
+The .GAM format FusionCR exports is similar to the one used by The Games Factory, but FusionCR's .GAM files
+are incompatible with TGF and C&C because they store expressions in a CF2.5 format rather than the one TGF uses.
 
 Games made with FusionCR are designed to be played within FusionCR itself, through the **FusionCR community** which
 is the primary method of sharing FusionCR games for others to play, although they can be exported to Fusion 2.5
