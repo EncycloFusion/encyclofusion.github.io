@@ -12,14 +12,13 @@ initial_release_build: null
 initial_release_date: null
 last_stable_build: null
 last_stable_date: null
-last_beta_build: null
+last_beta_build: "Build 0.90"
 last_beta_date: null
-predecessor: "[The Games Factory 2](/games-factory-2/) or [The Games Factory](/games-factory/)"
+predecessor: "[The Games Factory](/games-factory/) or [The Games Factory 2](/games-factory-2/)"
 platforms:
   - html5
 languages:
   - en
-  - fr
 shop_link: null
 support_link: null
 links:
