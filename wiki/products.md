@@ -29,7 +29,7 @@ menu:
 
   - title: The Games Factory Series
     items:
-      - name: "Klik & Play (1995)"
+      - name: "Klik & Play (1994)"
         icon: "/wiki/assets/Clickteam/Icon_KlikandPlay.png"
         url: "/klik-and-play/"
 
