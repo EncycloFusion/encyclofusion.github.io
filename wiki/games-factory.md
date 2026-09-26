@@ -82,7 +82,7 @@ version of the product. TGF Pro is the same as **Multimedia Fusion Express**, pr
 %}
 {% include gallery
     image = "/wiki/assets/Disc Covers/TGF1FrenchCover.jpg"
-    text = "The French cover of The Games Factory disc set Marketed as Klik & Play 2 With Disc."
+    text = "The French cover of The Games Factory disc set marketed as Klik & Play 2."
 %}
 
 [GAM]: /file-extensions/GAM/
