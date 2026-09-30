@@ -16,6 +16,7 @@ menu:
       - name: "Multimedia Fusion (1998)"
         icon: "/wiki/assets/Clickteam/Icon MMF1.5.png"
         url: "/fusion/1.x/"
+        hint: "Standard & Pro Editions"
 
       - name: "Multimedia Fusion 2 (2006)"
         icon: "/wiki/assets/Clickteam/Icon MMF2.png"
