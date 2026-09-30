@@ -12,8 +12,8 @@ initial_release_build: null
 initial_release_date: null
 last_stable_build: null
 last_stable_date: null
-last_beta_build: "Build 0.90"
-last_beta_date: null
+last_beta_build: "Build 0.91"
+last_beta_date: "09/2026"
 predecessor: "[The Games Factory](/games-factory/) or [The Games Factory 2](/games-factory-2/)"
 platforms:
   - html5
